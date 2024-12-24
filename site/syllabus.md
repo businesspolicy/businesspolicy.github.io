@@ -44,7 +44,7 @@ Section # 1150
     </tr>
     <tr>
       <td>Meeting Times</td>
-      <td>TuTh 2:00PM - 3:15PM</td>
+      <td>Tuesdays, Thursdays 2:00PM - 3:15PM</td>
     </tr>
   </tbody>
 </table>
@@ -80,7 +80,7 @@ Section # 1160
     </tr>
     <tr>
       <td>Meeting Times</td>
-      <td>TuTh 3:30PM - 4:45PM</td>
+      <td>Tuesdays, Thursdays 3:30PM - 4:45PM</td>
     </tr>
   </tbody>
 </table>
@@ -107,11 +107,11 @@ Section # 1160
     </tr>
     <tr>
       <td>Office location</td>
-      <td>Mervis 247</td>
+      <td>Mervis Hall 247</td>
     </tr>
     <tr>
       <td>Office hours</td>
-      <td>TBD</td>
+      <td>Tuesdays, Thursdays 11:00am - 1:00pm</td>
     </tr>
   </tbody>
 </table>
@@ -165,9 +165,6 @@ This course is divided into three major sections:
 
 3. **Competing in Multiple Markets and Strategy Execution:** We'll examine why and how firms compete across multiple product and geographic markets. This includes understanding the role of corporate headquarters, the importance of organizational structure, and the complexities of strategy execution. Finally, we'll emphasize that strategy is a continuous cycle of analysis, formulation, implementation, and adaptation, rather than a one-time event.
 
-## Teaching Philosophy
-
-
 ## Course Materials
 
 **Required Coursepack:** 
@@ -180,7 +177,7 @@ This course is divided into three major sections:
 
 {: .important-title}
 >
-> Course Material Purchase Information <span>To-do</span>{: .label .label-red }
+> Course Material Purchase Information <span>ToDo</span>{: .label .label-red }
 >
 > Purchase your coursepack here: [https://hbsp.harvard.edu/import/1242102](https://hbsp.harvard.edu/import/1242102)
 >
@@ -199,7 +196,7 @@ Here's what you can find on Capital IQ:
 
 {: .important-title}
 > 
-> CapitalIQ New User Registration <span>To-do</span>{: .label .label-red }
+> CapitalIQ New User Registration <span>ToDo</span>{: .label .label-red }
 >
 > Please make sure to sign up for an account. It is free for Pitt students. You can find the details here: [https://pitt.libanswers.com/faq/52206](https://pitt.libanswers.com/faq/52206)
 
@@ -212,7 +209,7 @@ NotebookLM is an AI-powered research assistant from Google that can help you wit
 
 {: .important-title}
 >
-> NotebookLM Google Account Requirement<span>To-do</span>{: .label .label-red}
+> NotebookLM Google Account Requirement<span>ToDo</span>{: .label .label-red}
 >
 > You'll be using NotebookLM for a semester-long group project. If you prefer not to share your personal email address with your group members, we encourage you to create an email alias. 
 
@@ -220,13 +217,93 @@ NotebookLM is an AI-powered research assistant from Google that can help you wit
 
 Check <a href="#course-information">Course Information</a> for the meeting times of your section.
 
-Please see the [Schedule]({% link site/schedule.md %}) for topic and task details for each session. 
+Please see the [Schedule](/site/schedule) for topic and task details for each session. 
 
 ## Assessment
 
- Rubrics
+**Graded Deliverables**
+
+| Deliverable | Grade Points % | 
+| :---: | :---: | :---: |
+| Company Analysis Project <span>Group</span>{: .label .label-purple} | 50% | 
+| Pre-class Reading Quiz | 20% |
+| Case Test | 20% |
+| Exit Ticket Submissions | 5% |
+| Attendance | 5% |
+
+
+**Company Analysis Project**  <span>Group</span>{: .label .label-purple}
+
+See the [project](company-analysis-project/) page for details.
+
+| [Dry Run Project](company-analysis-project/dryrun) | 100 | 01/23 |
+| [Industry Analysis](company-analysis-project/industry) | 100 | 02/13 |
+| [Business Strategy Analysis](company-analysis-project/business) | 100 | 03/20 |
+| [Corporate Strategy Analysis](company-analysis-project/corporate) | 100 | 04/08 |
+| [Strategic Initiative](company-analysis-project/initative) | 100 | 04/22 |
+
+
+**Pre-class Reading Quiz:**
+
+Each of the readings in the coursepack contains foundational concepts, examples, interactive illustrations, and applications of strategic management frameworks. A firm understanding of these frameworks is vital for in-class discussions and the team project. The quiz is aimed at encouraging students to actively engage with the reading material and achieve stronger grasp of the concepts. 
+
+There are 8 quizzes, one for each reading. Please make sure to complete the quiz via Canvas before the deadline.
+
+{: .warning-title}
+> Quiz details
+>
+> This is an open-book test with a higher-than-usual number of questions. The questions will require you not only to recall learned terms but also to apply your knowledge to new contexts. There is no time limit, but plan ahead and start early to ensure you have sufficient time to complete the test.
+
+
+**Case Test:**
+
+Please see the [case test page](/site/casetest) for details.
+
+| Test | Date|
+| :---: | :---: |
+| Case Test 1 | 2/13 |
+| Case Test 2 | 3/20 |
+| Case Test 3 | 4/08 |
+
+{: .warning-title}
+> Test Preparation Tip
+>
+> Active participation in company analysis project and in-class learning activities is a critical preparation for this test.
+
+***Grading Scheme:***
+
+| Letter Grade	| Range |
+|:---:|:---:|
+| A	 | 100% to 94%  |
+| A- | < 94% to 90% |
+| B+ | < 90% to 87% |
+| B	 | < 87% to 84% |
+| B- | < 84% to 80% |
+| C+ | < 80% to 77% |
+| C	 | < 77% to 74% |
+| C- | < 74% to 70% |
+| D+ | < 70% to 67% |
+| D	 | < 67% to 64% |
+| D- | < 64% to 61% |
+| F	 | < 61% to 0%  | 
+
+## Library Guide
+The University of Pittsburgh Library System offers a variety of resources to support student research projects. Explore these helpful research guides curated by Pitt Business librarians: 
+
+- [Company Research @ Pitt](https://pitt.libguides.com/companyresearch) 
+- [Industry Research @ Pitt](https://pitt.libguides.com/industryresearch)
+
 
 ## Course Policies
+
+**Attendance**
+Students are expected to attend all sessions. If you are unable to attend a session, please inform
+me in advance where possible.
+
+**Late Submissions**
+Please email ahead of time if you require more time to complete your assignments. I reserve the
+right to not grade unexcused late submissions. An automatic 5% grade point deduction per day
+from the submission date will be effected for repeated or unreasonably long delays.
 
 **Academic Integrity**
 
