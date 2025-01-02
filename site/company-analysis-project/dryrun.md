@@ -26,6 +26,11 @@ This assignment helps you get comfortable with NotebookLM before diving into the
     * FAQ
 5. **Experiment!** See how you can change the structure and content of the summaries.
 
+{: .note-title}
+> Prefer a lesson on NotebookLM?
+>
+> See [Learning NotebookLM: Your AI-Powered Research Assistant](https://www.linkedin.com/learning-login/share?account=2252458&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-notebooklm-your-ai-powered-research-assistant%3Ftrk%3Dshare_ent_url%26shareId%3D1eQSC9faQfiUvFxsY4H9GA%253D%253D). LinkedIn Learning is free for Pitt students. See this [article](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=246) if you need help.
+
 **Important Details:**
 
 * **Summary Length:** Each summary should be about 2-3 pages long.
