@@ -1,6 +1,7 @@
 ---
-title: NotebookLM Guide
+title: Tips for NotebookLM Guide
 layout: default
+parent: NotebookLM Guide
 nav_order: 99
 ---
 Here are some things you might want to include in a guide to help students get started with using NotebookLM for a research project:
