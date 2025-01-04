@@ -7,32 +7,50 @@ nav_order: 1
 # Getting Started
 {:no_toc}
 
-To get started with NotebookLM, you will need to **create a notebook** by uploading your sources. You can upload sources in various formats, including Google Docs, Slides, PDFs, web URLs, copied text, and YouTube URLs. Once you have uploaded your sources, NotebookLM will automatically generate a summary of all your sources. 
+### Getting Started with NotebookLM
 
-Here is a detailed instruction on how to create a notebook:
+NotebookLM is an AI-powered tool that can help you with your research and learning. In this course, you'll be using NotebookLM to analyze companies, industries, and competitive landscapes.
 
-1.  **On your computer, open NotebookLM.**
-2.  **Click on *+ Add Source* in the left panel.**
-3.  **Choose the sources that you want to upload for your notebook.**
-4.  **Click *Insert*.**
+**Accessing NotebookLM**
 
-Now, you can start collaborating with NotebookLM by doing the following:
+1. Open your web browser and go to [https://notebooklm.google.com/](https://notebooklm.google.com/).
+2. Sign in with your Google account.
 
-*   **View the automatically generated summary of all your sources in the center of the screen.**
-*   **Ask questions about your sources by typing at the bottom of the screen.**
-*   **Use the Studio panel on the right to create outputs grounded in your sources:**
+That's it! You're now ready to start using NotebookLM.
 
-    *   **Create an audio overview.**
-    *   **Create an FAQ, study guide, table of contents, timeline, or briefing document.**
-    *   **Add notes to your notebook.**
+{: .note}
+> Please note that the actual appearance of NotebookLM may differ from this screenshot as the product continues to evolve. 
 
-You can also add or delete sources in your notebook. NotebookLM organizes projects similar to how folders organize files on a computer. Each notebook is separate, so NotebookLM cannot access information from multiple notebooks at the same time. 
+![NotebookLM Homepage screenshot](/assets/images/landingpage.png)
 
-source guide /source overview
-audio overview
-source
-Notebook
-Citation
-sources | chat | studio
+**Creating a New Notebook**
 
-faq | briefing docs | study guide | timeline | audio overview
+1. On the NotebookLM homepage, click the "Create new notebook" button.
+1. You may see a page that prompts you to add sources or give your notebook a name.
+1. You can dismiss the prompt to add sources for now and continue to give your notebook a name.
+1. Now is your chance to see the empty notebook one last time.
+1. The Sources, Chats and Studio panels represent key workflow steps you will perform in this app.
+
+![Untitled notebook screenshot](/assets/images/untitled-notebook.png)
+
+You've now created your first NotebookLM notebook!
+
+**Device and Browser Compatibility**
+
+NotebookLM works best in the latest versions of Chrome, Firefox, and Safari browsers. You can use NotebookLM on your laptop, tablet, or smartphone. However, for the best experience, we recommend using a laptop with a large screen.
+
+**Troubleshooting**
+
+If you encounter any issues while using NotebookLM, here are a few things you can try:
+
+* Refresh your browser.
+* Check your internet connection.
+* Clear your browser's cache and cookies.
+* Try using a different browser.
+
+If you're still having trouble, you can refer to the official NotebookLM documentation for more help: [NotebookLM Help](https://support.google.com/notebooklm)
+
+**Next Steps**
+
+Now that you've created your NotebookLM notebook, you're ready to start adding sources and exploring its features. In the next section, we'll learn how to add source documents.
+

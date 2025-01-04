@@ -1,6 +1,6 @@
 ---
 title: Lesson Plan
-parent: NotebookLM Lab
+parent: NotebookLM Guide
 nav_order: 1
 ---
 # Lesson Plan
