@@ -18,6 +18,12 @@ defaults:
       path: "assets/images"
     values: 
       image: true
+  - scope:
+      path: "assets/pdfs"
+    values:
+      image: false
+      pdf: true
+
 
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
