@@ -145,16 +145,26 @@ back_to_top_text: "Back to top"
 enable_copy_code_button: true
 
 # collections
-# collections:
-#   strategy:
-#     output: true
+collections:
+  topics:
+    permalink: "/:collection/:path/"
+    output: true
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
 
-# just_the_docs:
-#   collections:
-#     strategy:
-#       name: 'Strategic Management'
-#       nav_fold: true
-
+just_the_docs:
+  collections:
+    topics:
+      name: Topics
+      nav_fold: true
+      search_exclude: false
+      nav_exclude: false 
+    tutorials:
+      name: Tutorials
+      nav_fold: true
+      search_exclude: false
+      nav_exclude: false 
 
 callouts_level: quiet # or loud
 callouts:
