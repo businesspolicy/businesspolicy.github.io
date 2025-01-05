@@ -1,3 +1,7 @@
+---
+title: Course Overview
+layout: default
+---
 Okay, I'll put on my student hat! Here's what I'd be hoping to hear about in the first session of a Strategic Management course, keeping in mind that we're mostly seniors (and some juniors) in business school:
 
 **1. Big-Picture Context:**
