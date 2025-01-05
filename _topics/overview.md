@@ -2,6 +2,41 @@
 title: Course Overview
 layout: default
 ---
+
+## What is Strategy About?
+
+```mermaid
+mindmap
+  root((Strategy))
+    Potential misconceptions
+      Only for C-suite 
+      All about plans  
+      Must be hard to understand 
+      Winning is all that matters 
+    Common sources of our understanding
+      From board games and video games 
+      Sports 
+      Personal goal-setting and execution 
+      War history 
+    Strategy concerns
+      Uncertainty and ambiguity 
+      Securing and allocating resources 
+      Stability and change 
+```
+
+Our everyday experiences shape our understanding of strategy. We draw insights from strategy games, sports, personal goal-setting, and even military history. However, these sources can also lead to misconceptions:
+
+* **"Strategy is only for the top brass":**  We often associate strategy with generals and CEOs, overlooking its importance at all levels of an organization.
+* **"Strategy is just a plan":** While planning is crucial, strategy also involves execution, adaptation, and learning.
+* **"Strategy must be secretive and complex":** Effective strategies are often clear, communicable, and adaptable.
+* **"Strategy is about beating the competition":**  While competition exists, strategy can also be about collaboration and creating value for multiple stakeholders.
+
+Strategic management in organizations often involves navigating uncertainty and ambiguity, especially when making long-term decisions with broad implications. It's about balancing stability and change: creating an environment where employees can thrive while also helping the organization adapt to a dynamic world. This requires securing and allocating resources effectively to address priorities.
+
+
+
+## Why Should You Care?
+
 Okay, I'll put on my student hat! Here's what I'd be hoping to hear about in the first session of a Strategic Management course, keeping in mind that we're mostly seniors (and some juniors) in business school:
 
 **1. Big-Picture Context:**
@@ -10,34 +45,8 @@ Okay, I'll put on my student hat! Here's what I'd be hoping to hear about in the
 * **Why should we care?**  Connect this to our career goals. How will this course make us better interns, job candidates, or future managers?
 * **Debunk the myths:** Is strategy only for top executives?  Is it all about long, boring plans that never get used?
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
+decentralization, cross-functional teams, what your work means to your boss's boss grand scheme of things performance evaluation, job offer
 
-```mermaid
-mindmap
-  root((Strategy))
-    Misconceptions
-      Only for C-suite 👔
-      All about plans ♟️
-      Must be hard to understand ㊙️
-      ㊙️
-        British popular psychology author Tony Buzan
-    Research
-      On effectivness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-```
 
 Okay, time to tap into my inner business student again! Here are some common perceptions and ideas that pop into my head when I hear the word "strategy":
 
