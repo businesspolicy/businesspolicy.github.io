@@ -21,7 +21,7 @@ nav_order: 2
         <p>01/09</p>
       </td>
       <td>
-        <p>Course Overview</p>
+        <p><a href="/topics/overview">Course Overview</a></p>
       </td>
       <td>
         <p>
