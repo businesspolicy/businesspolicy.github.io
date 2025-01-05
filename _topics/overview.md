@@ -19,23 +19,24 @@ Okay, I'll put on my student hat! Here's what I'd be hoping to hear about in the
 ```
 
 ```mermaid
-    mindmap
-    root((mindmap))
-        Origins
-        Long history
-        ::icon(fa fa-book)
-        Popularisation
-            British popular psychology author Tony Buzan
-        Research
-        On effectiveness<br/>and features
-        On Automatic creation
-            Uses
-                Creative techniques
-                Strategic planning
-                Argument mapping
-        Tools
-        Pen and paper
-        Mermaid
+mindmap
+  root((Strategy))
+    Misconceptions
+      Only for C-suite 👔
+      All about plans ♟️
+      Must be hard to understand ㊙️
+      ㊙️
+        British popular psychology author Tony Buzan
+    Research
+      On effectivness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
 ```
 
 Okay, time to tap into my inner business student again! Here are some common perceptions and ideas that pop into my head when I hear the word "strategy":
