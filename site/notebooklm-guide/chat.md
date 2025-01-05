@@ -70,7 +70,7 @@ You can also customize how NotebookLM responds to your questions by configuring 
 * **Longer:**  Generates more detailed and comprehensive answers.
 * **Shorter:**  Provides concise and to-the-point answers.
 
-![Screenshot showing chat configuration](/assets/images/select-source-configure-chat.png)
+![Screenshot showing chat configuration](/assets/images/configure-chat.png)
 
 ## Saving to Notes
 
