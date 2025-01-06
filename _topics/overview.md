@@ -170,37 +170,12 @@ Each phase of the project builds upon the previous one, allowing you to progress
 * **Late Submissions:**  Unexcused late submissions will be penalized 5% of the total points and may be graded at my discretion.
 * **Attendance:**  Attendance will be tracked through exit tickets and roll calls. You can monitor your attendance record on Canvas. Exit tickets are tied to in-class activities and reflect your active participation.
 
+{: .new-title}
+> ## Activity: *Team Up* - Forming Your Project Team
+>
+> Follow the link and complete the [activity](/activities/teamup).
 
-## Activity: *Team Up* - Forming Your Project Team
-
-**Objective:**  To create project teams of up to 4 students through an interactive, strategy-themed activity that simulates decision-making.
-
-**Materials:**
-
-* Tent cards/place cards (one per student)
-* Whiteboard or large sheets of paper
-* Markers
-
-**Instructions:**
-
-1. **Information Gathering:** Before the activity, You should come prepared with the following information written on their tent card:
-    * **Top-Pick Company:** Their preferred [S&P 500 company](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies) for the group project.
-    * **Major:** Their declared major or area of specialization.
-    * **Conversation Starter:** An interesting fact, skill, or interest they want to share.
-
-2. **Strategic Grouping:**  Students will get out of their seats and mingle, using their cards to find other "companies" and individuals who would make good strategic allies for a project team. Consider factors like:
-    * Complementary strengths (diverse majors)
-    * Potential for synergy and innovation (shared interests or complementary companies)
-    * Shared values or goals
-
-3. **Team Formation:**  Once students have formed groups of up to 4, they should write their team's company names on the whiteboard/paper.
-
-4. **Justification:**  Each team briefly explains their "strategic alliance" to the class, highlighting the reasons behind their grouping.
-
-5. **Team Naming:**  Each team chooses a creative and appropriate name for their group.
-
-6. **Canvas Setup:**  Teams add themselves to a group on Canvas and update their team name within the platform (Email the instructor your team name and members only if the name update did not work on Canvas). Need help? See this page: [https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468)
-
+---
 
 {: .warning-title}
 > Exit Ticket Assignment
@@ -211,19 +186,12 @@ Each phase of the project builds upon the previous one, allowing you to progress
 >        * Which pieces of information on the cards were most influential in your decision-making?
 >        * Does your team have a good mix of business function expertise?
 >        * What other factors did you consider when choosing your team?
+>    * Limit your response to 200 words.
 >    * Complete submission before leaving the classroom. Submission past class hours will not be graded.
 
+---
 
-## Parting Notes
-
-
-* **Discussion:**  A short discussion about a recent business news story that ties into strategy.  This would get us thinking strategically from day one.
-
-**4.  Tools & Resources:**
-
-* **NotebookLM:**  Since we'll be using it all semester, a quick demo would be super helpful.  Show us some cool features and how it can help us with our projects.
-* **Other resources:**  Are there any websites, books, or articles you recommend beyond the assigned readings?
-
+## Reminders for Next Class
 
 
 
