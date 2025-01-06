@@ -152,6 +152,9 @@ collections:
   tutorials:
     permalink: "/:collection/:path/"
     output: true
+  activities:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
@@ -165,6 +168,12 @@ just_the_docs:
       nav_fold: true
       search_exclude: false
       nav_exclude: false 
+    activities:
+      name: Activities
+      nav_fold: true
+      search_exclude: false
+      nav_exclude: false 
+
 
 callouts_level: quiet # or loud
 callouts:
