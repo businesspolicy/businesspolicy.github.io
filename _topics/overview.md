@@ -2,6 +2,14 @@
 title: Course Overview
 layout: default
 ---
+# Course Introduction and Overview
+{: .no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## What is Strategy About?
 
@@ -82,7 +90,7 @@ This course is designed to maximize your learning through active participation a
 * **AI Tools:** AI tools generally work on any modern browser.
 * **Device Choice:** A tablet with a keyboard might work, but a laptop with a full keyboard is recommended for optimal comfort and efficiency when working with large amounts of text and detailed prompts.
 
-**Course Roadmap & Expectations:**
+## Course Topics Breakdown
 
 ```mermaid
 ---
@@ -116,8 +124,6 @@ block-beta
   end
 ```
 
-
-
 This course is divided into three major sections:
 
 1. **Analyzing the External Environment:** We'll explore key tools for assessing the external environment, with a focus on Porter's Five Forces framework for industry analysis. This will help you understand the competitive dynamics and attractiveness of different industries.
@@ -126,15 +132,91 @@ This course is divided into three major sections:
 
 3. **Competing in Multiple Markets and Strategy Execution:** We'll examine why and how firms compete across multiple product and geographic markets. This includes understanding the role of corporate headquarters, the importance of organizational structure, and the complexities of strategy execution. Finally, we'll emphasize that strategy is a continuous cycle of analysis, formulation, implementation, and adaptation, rather than a one-time event.
 
-At the end of each section, there will be a case test
+## Grading: Your Path to Success in Strategic Management
 
-* **Key topics:**  Give us a clear overview of what we'll learn.  Highlight the most interesting and relevant parts.
-* **Assignments:**  Break down the major assignments. What are the expectations? How can we excel? (Sharing that awesome rubric you created would be great!)
-* **Grading:**  Be upfront about how we'll be assessed.  What are the "must-dos" to succeed in this course?
+In this course, your grade will reflect your overall engagement and mastery of strategic management concepts. We'll use a variety of assessments to evaluate your progress, including a major company analysis project, quizzes, case tests, exit tickets, and class participation.
 
-**3.  Interactive Stuff:**
+**Grading Breakdown**
 
-* **Icebreaker:**  Something quick and fun to get to know you and our classmates.  Maybe a poll about our career interests or a strategic challenge related to a trending company.
+| Deliverable                       | Grade Points % |
+| :-------------------------------- | :------------- |
+| Company Analysis Project (Group)  | 50%            |
+| Pre-class Reading Quiz            | 20%            |
+| Case Test                         | 20%            |
+| Exit Ticket Submissions           | 5%             |
+| Attendance                        | 5%             |
+
+**Company Analysis Project**
+
+This project forms the core of your learning experience. You'll work in groups to conduct an in-depth analysis of a real company, applying the concepts and frameworks we cover throughout the semester. The project is divided into five phases:
+
+| Phase                             | Points | Deadline |
+| :------------------------------- | :----- | :------- |
+| Dry Run Project                   | 100    | 01/23    |
+| Industry Analysis                 | 100    | 02/13    |
+| Business Strategy Analysis        | 100    | 03/20    |
+| Corporate Strategy Analysis      | 100    | 04/08    |
+| Strategic Initiative              | 100    | 04/22    |
+
+Each phase of the project builds upon the previous one, allowing you to progressively deepen your understanding and demonstrate your skills.
+
+**Important Considerations**
+
+* **Weighted Grading:**  While each component has a specific point value, your final grade will be calculated based on the weighted percentages shown in the table. For example, the three case tests might total 300 points, but they will ultimately contribute 20% to your overall grade.
+* **Rubrics:**  Detailed rubrics will be provided for each phase of the company analysis project and other major assignments. These rubrics will outline the specific criteria and expectations for each assignment, helping you focus your efforts and achieve your best work.
+* **Actionable Insights:**  Your analyses, whether for case tests or the project, must result in actionable insights. Imagine you're presenting to the top management team and board of directors. Your insights should be clear, relevant, and provide a basis for decision-making.
+* **Active Participation:**  Active participation in class discussions and activities is essential. It demonstrates your engagement and allows you to learn from your peers.
+* **Time Management:**  The course schedule is designed to be manageable, but it's important to plan your time effectively to keep up with readings, assignments, and project deadlines.
+* **Late Submissions:**  Unexcused late submissions will be penalized 5% of the total points and may be graded at my discretion.
+* **Attendance:**  Attendance will be tracked through exit tickets and roll calls. You can monitor your attendance record on Canvas. Exit tickets are tied to in-class activities and reflect your active participation.
+
+
+## Activity: *Team Up* - Forming Your Project Team
+
+**Objective:**  To create project teams of up to 4 students through an interactive, strategy-themed activity that simulates decision-making.
+
+**Materials:**
+
+* Tent cards/place cards (one per student)
+* Whiteboard or large sheets of paper
+* Markers
+
+**Instructions:**
+
+1. **Information Gathering:** Before the activity, You should come prepared with the following information written on their tent card:
+    * **Top-Pick Company:** Their preferred [S&P 500 company](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies) for the group project.
+    * **Major:** Their declared major or area of specialization.
+    * **Conversation Starter:** An interesting fact, skill, or interest they want to share.
+
+2. **Strategic Grouping:**  Students will get out of their seats and mingle, using their cards to find other "companies" and individuals who would make good strategic allies for a project team. Consider factors like:
+    * Complementary strengths (diverse majors)
+    * Potential for synergy and innovation (shared interests or complementary companies)
+    * Shared values or goals
+
+3. **Team Formation:**  Once students have formed groups of up to 4, they should write their team's company names on the whiteboard/paper.
+
+4. **Justification:**  Each team briefly explains their "strategic alliance" to the class, highlighting the reasons behind their grouping.
+
+5. **Team Naming:**  Each team chooses a creative and appropriate name for their group.
+
+6. **Canvas Setup:**  Teams add themselves to a group on Canvas and update their team name within the platform (Email the instructor your team name and members only if the name update did not work on Canvas). Need help? See this page: [https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468)
+
+
+{: .warning-title}
+> Exit Ticket Assignment
+>
+> **Reflection: "How I Met My Team"**
+>    * Complete exit ticket assignment on Canvas "How I Met My Team," reflecting on the team formation process.
+>    * Prompts for reflection:
+>        * Which pieces of information on the cards were most influential in your decision-making?
+>        * Does your team have a good mix of business function expertise?
+>        * What other factors did you consider when choosing your team?
+>    * Complete submission before leaving the classroom. Submission past class hours will not be graded.
+
+
+## Parting Notes
+
+
 * **Discussion:**  A short discussion about a recent business news story that ties into strategy.  This would get us thinking strategically from day one.
 
 **4.  Tools & Resources:**
