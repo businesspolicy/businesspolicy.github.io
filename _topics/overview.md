@@ -50,7 +50,83 @@ As you're preparing to launch your career, you might be wondering why a course o
 In short, strategic management is not just for CEOs. It's a valuable skillset for anyone who wants to thrive in today's dynamic business world. This course will equip you with the tools and frameworks you need to think strategically, make informed decisions, and contribute to your organization's success from day one.
 
 
-**2. Course Roadmap & Expectations:**
+## Course Design: Active Learning and AI-Powered Exploration
+
+This course is designed to maximize your learning through active participation and hands-on experience. Here's how:
+
+**Flipped Classroom:**
+
+* **Come Prepared:**  You'll be assigned engaging readings with helpful illustrations and glossaries to prepare you for in-class activities.
+* **Topic Sessions:** These sessions will build upon the readings, extending, contrasting, and complementing the ideas you've learned.
+* **Tutorial Sessions:**  In these sessions, you'll apply concepts and frameworks to real companies through interactive activities.
+
+**Company Analysis Project:**
+
+* **Collaborative and AI-First:** You'll work in groups on a company analysis project, using AI tools like NotebookLM for research, brainstorming, structuring your analysis, and reporting your findings.
+* **Forming Your Group:** You'll have the opportunity to form groups in the first class. We'll use Canvas's self-signup group feature to formalize your group so that your group assignments are graded appropriately. [Link to Canvas group self-signup instructions:  [https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468)]
+* **In-Class Teamwork:** The tutorial sessions are designed to help you complete a significant portion of your group project during class time.
+
+**Developing New Skills:**
+
+* **AI as a Thinking Partner:** Working with AI requires a new approach. You'll learn to leverage AI to boost your thinking, cross-check your work, research and brainstorm ideas, and effectively write and report your findings.
+* **AI Tools:** You're welcome to use any AI tool you're comfortable with for this course.
+* **Hands-On with AI:** Tutorial sessions will often involve using AI tools.  Bring a computer with a keyboard to participate fully in these activities.
+
+**Testing Your Knowledge:**
+
+* **Pen-and-Paper Case Tests:** To ensure you can apply the concepts independently, you'll take a pen-and-paper case test at the end of each of the three main course sections. These tests will assess your ability to analyze and solve strategic challenges without relying on AI.
+* **Preparing for the Tests:** The class activities and debriefs will help you prepare for the case tests. Focus on understanding the analytical logic behind the AI's responses and how it arrives at its answers. Ask the AI to explain its work, and learn from those explanations as you work on the company project and classroom activities.
+
+**Technology Requirements:**
+
+* **AI Tools:** AI tools generally work on any modern browser.
+* **Device Choice:** A tablet with a keyboard might work, but a laptop with a full keyboard is recommended for optimal comfort and efficiency when working with large amounts of text and detailed prompts.
+
+**Course Roadmap & Expectations:**
+
+```mermaid
+---
+look: handDrawn
+theme: neutral
+---
+block-beta
+
+  columns 12
+  block:group1:12
+    columns 4
+    p{{"Political"}} e{{"Economic"}} s{{"Social"}} t{{"Technological"}}
+  end
+  block:group2:12
+    %% columns auto (default)
+    i1("Industry 1") 
+    i2("Industry 2") 
+    i3("Industry 3") 
+    i4("Industry 4")
+  end
+  block:group3:12
+    %% columns auto (default)
+    bu1 ["Business Unit 1"]
+    bu2 ["Business Unit 2"]
+    bu3 ["Business Unit 3"]
+    bu4 ["Business Unit 4"]
+  end
+  block:group4:12
+    %% columns auto (default)
+    c["Corporate Parent"]
+  end
+```
+
+
+
+This course is divided into three major sections:
+
+1. **Analyzing the External Environment:** We'll explore key tools for assessing the external environment, with a focus on Porter's Five Forces framework for industry analysis. This will help you understand the competitive dynamics and attractiveness of different industries.
+
+2. **Evaluating Organizational Resources and Competitive Advantage:** We'll delve into principles and tools for evaluating organizational resources and capabilities.  This section covers competitive advantage analysis, its relationship with innovation, and how to create compelling customer value propositions. We'll also connect these ideas to insights from our industry structure analysis.
+
+3. **Competing in Multiple Markets and Strategy Execution:** We'll examine why and how firms compete across multiple product and geographic markets. This includes understanding the role of corporate headquarters, the importance of organizational structure, and the complexities of strategy execution. Finally, we'll emphasize that strategy is a continuous cycle of analysis, formulation, implementation, and adaptation, rather than a one-time event.
+
+At the end of each section, there will be a case test
 
 * **Key topics:**  Give us a clear overview of what we'll learn.  Highlight the most interesting and relevant parts.
 * **Assignments:**  Break down the major assignments. What are the expectations? How can we excel? (Sharing that awesome rubric you created would be great!)
