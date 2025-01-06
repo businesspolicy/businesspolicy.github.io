@@ -1,6 +1,5 @@
 title: Strategic Management
 description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
 remote_theme: just-the-docs
 
 url: https://businesspolicy.github.io
@@ -97,7 +96,7 @@ search:
   mermaid:
   # Version of mermaid library - last updates: 2024-11-27
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "11.4.1"
+  version: "9.1.3"
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
