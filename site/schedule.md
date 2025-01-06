@@ -29,6 +29,8 @@ nav_order: 2
               <li> Purchase coursepack</li>
               <li> Create CapitalIQ account</li>
               <li> Sign up for NotebookLM</li>
+              <li> Submit exit ticket</li>
+
             </ul>
         </p>
       </td>
@@ -41,11 +43,12 @@ nav_order: 2
         </td>
         <td>
           <p>Introduction to Strategy</p>
+          <p><a href="/tutorials/notebooklm-guide/index">NotebookLM Tutorial</a></p>
         </td>
         <td>
           <p>
               <ul>
-                <li>Group and company selection. <span class="label label-purple">Group</span></li>
+                <li>Add to Canvas / email Group and company selection. <span class="label label-purple">Group</span></li>
                 <li> Take the quiz</li>
                 <li> Submit exit tickets</li>
               </ul>
@@ -59,7 +62,7 @@ nav_order: 2
           <p>01/23</p>
         </td>
         <td>
-          <p>Project Dry Run</p>
+          <p><a href= "company-analysis-project/dryrun">Project Dry Run</a></p>
         </td>
         <td>
           <p>
