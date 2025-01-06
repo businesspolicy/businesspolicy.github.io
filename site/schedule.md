@@ -48,7 +48,7 @@ nav_order: 2
         <td>
           <p>
               <ul>
-                <li>Add to Canvas / email Group and company selection. <span class="label label-purple">Group</span></li>
+                <li>Email team and company selection. <span class="label label-purple">Group</span></li>
                 <li> Take the quiz</li>
                 <li> Submit exit tickets</li>
               </ul>
