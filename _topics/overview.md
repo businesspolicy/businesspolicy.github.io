@@ -191,7 +191,8 @@ Each phase of the project builds upon the previous one, allowing you to progress
 
 ---
 
-## Reminders for Next Class
+## Reminders for Next Class <span class="label label-red">ToDo</span> 
 
-
-
+* Complete Introduction to Strategy reading and take the quiz. 
+* Email your team and company selection. Please include section number or class meeting time in your email.
+* Need help? Have questions? Take advantage of walk-in office hours. Office at Mervis 247. 
