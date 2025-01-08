@@ -1,6 +1,6 @@
 ---
 name: Content Gap in Strategic Management Course
-about: Describe this issue template's purpose here.
+about: This template helps you clearly describe content gaps in the Strategic Management course and suggest ways to address them. By providing specific details and explaining the potential impact, you can help improve the learning experience for yourself and your fellow students.
 title: "[Content Request]"
 labels: enhancement
 assignees: midhubalan
