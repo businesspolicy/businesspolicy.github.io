@@ -117,6 +117,6 @@ https://www.youtube.com/watch?v=5puu3kN9l7c
 
 **Next Steps**
 
-Now that you know how to add and manage sources, let's move on to the exciting part: chatting with your source documents! In the next section, we'll learn how to ask questions and get information from your sources using NotebookLM's AI capabilities.
+Now that you know how to add and manage sources, let's move on to the exciting part: chatting with your source documents! In the [next section](/tutorials/notebooklm-guide/chat), we'll learn how to ask questions and get information from your sources using NotebookLM's AI capabilities.
 
 

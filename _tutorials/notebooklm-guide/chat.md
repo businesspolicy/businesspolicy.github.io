@@ -142,3 +142,5 @@ Work through the prompts in the table below. For each prompt:
 **Reflect and Discuss:**
 
 After trying these prompts, take a moment to reflect on your experience. How does using NotebookLM for research compare to your previous methods (e.g., keyword searches, reading through documents)?  Be prepared to share your thoughts in class.
+
+The notes feature of NotebookLM is central to what we can get out of NotebookLM. in the [next section](/tutorials/notebooklm-guide/insights) we'll explore notes and how it relates to our project.
