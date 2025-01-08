@@ -52,5 +52,5 @@ If you're still having trouble, you can refer to the official NotebookLM documen
 
 **Next Steps**
 
-Now that you've created your NotebookLM notebook, you're ready to start adding sources and exploring its features. In the next section, we'll learn how to add source documents.
+Now that you've created your NotebookLM notebook, you're ready to start adding sources and exploring its features. In the [next section](/tutorials/notebooklm-guide/sources), we'll learn how to add source documents.
 

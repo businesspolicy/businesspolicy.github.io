@@ -75,3 +75,8 @@ NotebookLM makes this entire process smoother and more efficient by:
 </details>
 
 NotebookLM and company analysis using AI is a new skill. I am excited to have you join me in this journey.
+
+{: .new-title}
+> Dry run project
+>
+> The [Dry Run project](/site/company-analysis-project/dryrun) lets you test your new NotebookLM skills. Take it a step further! Create a notebook for your chosen company using similar source documents and try the example prompts from the tutorial. It's a great head start on your company analysis project.
