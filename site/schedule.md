@@ -44,6 +44,7 @@ nav_order: 2
         <td>
           <p><a href="/topics/strategy-intro/">Introduction to Strategy</a></p>
           <p><a href="/tutorials/notebooklm-guide/index">NotebookLM Tutorial</a></p>
+          <p>Introduction to Strategy</p>
         </td>
         <td>
           <p>
