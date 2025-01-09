@@ -117,7 +117,7 @@ Each phase of the project builds upon the previous one, allowing you to progress
 * **Active Participation:**  Active participation in class discussions and activities is essential. It demonstrates your engagement and allows you to learn from your peers.
 * **Time Management:**  The course schedule is designed to be manageable, but it's important to plan your time effectively to keep up with readings, assignments, and project deadlines.
 * **Late Submissions:**  Unexcused late submissions will be penalized 5% of the total points and may be graded at my discretion.
-* **Attendance:**  Attendance will be tracked through exit tickets and roll calls. You can monitor your attendance record on Canvas. Exit tickets are tied to in-class activities and reflect your active participation.
+* **Attendance:**  Attendance will be tracked through name card pick-ups and returns, and exit tickets submissions. You can monitor your attendance record on Canvas. Exit tickets are tied to in-class activities and reflect your active participation.
 
 {: .new-title}
 > ## Activity: *Team Up* - Forming Your Project Team
