@@ -96,52 +96,56 @@ business model: internal fit, external fit, tradeoff => consistent set of choice
 
 Create an image of a word cloud. Use the following list of words:
 
-- Business model
+<div style="display: flex; flex-wrap: wrap;">
 
-- Trade-off
-
-- Fit
-
-- Resource-based view
-
-- Five forces
-
-- Blue ocean
-
-- Emergent strategy
-
-- Customers' willingness-to-pay
-
-- Suppliers' opportunity cost
-
-- Value creation
-
-- Value capture
-
-- Business landscape
-
-- Cost leadership
-
-- Differentiation
-
-- Competitive advantage
-
-- Economies of scale
-
-- Economies of scope
-
-- Product market
-
-- Geographic market
-
-- Corporate strategy
-
-- Global strategy
-
-- Dynamic consistency
-
-- Imitation
-
-- Substitution
-
-- Holdup
+**1 Customers' willingness-to-pay**
+{: .d-inline-block}
+**2 Suppliers' opportunity cost**
+{: .d-inline-block}
+**3 Value creation**
+{: .d-inline-block}
+**4 Value capture**
+{: .d-inline-block}
+**5 Business landscape**
+{: .d-inline-block}
+**6 Business model**
+{: .d-inline-block}
+**7 Trade-off**
+{: .d-inline-block}
+**8 Fit**
+{: .d-inline-block}
+**9 Resource-based view**
+{: .d-inline-block}
+**10 Five forces**
+{: .d-inline-block}
+**11 Blue ocean**
+{: .d-inline-block}
+**12 Emergent strategy**
+{: .d-inline-block}
+**13 Cost leadership**
+{: .d-inline-block}
+**14 Differentiation**
+{: .d-inline-block}
+**15 Competitive advantage**
+{: .d-inline-block}
+**16 Economies of scale**
+{: .d-inline-block}
+**17 Economies of scope**
+{: .d-inline-block}
+**18 Product market**
+{: .d-inline-block}
+**19 Geographic market**
+{: .d-inline-block}
+**20 Corporate strategy**
+{: .d-inline-block}
+**21 Global strategy**
+{: .d-inline-block}
+**22 Dynamic consistency**
+{: .d-inline-block}
+**23 Imitation**
+{: .d-inline-block}
+**24 Substitution**
+{: .d-inline-block}
+**25 Holdup**
+{: .d-inline-block}
+</div>
