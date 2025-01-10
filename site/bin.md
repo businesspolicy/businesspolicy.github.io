@@ -85,3 +85,63 @@ business model ~ generic strategy => WTP - SOP => technology + structure  + cult
 what if internal demographic, cultural, gender etc etc diversity is not reflective of the market the company serves? 
 culture is stabilizing ~ how do we bring about change then => structure aka corporate strategy shotgun marriages
 why firms exist and fit 
+
+where should we compete and how
+advantage through economies of scale and scope
+
+four approaches to strategy and strategic management
+blue ocean, RBV, and five forces are complmentary
+emergent strategy not a framework - emphasizes balancing planning and learning
+business model: internal fit, external fit, tradeoff => consistent set of choices
+
+Create an image of a word cloud. Use the following list of words:
+
+- Business model
+
+- Trade-off
+
+- Fit
+
+- Resource-based view
+
+- Five forces
+
+- Blue ocean
+
+- Emergent strategy
+
+- Customers' willingness-to-pay
+
+- Suppliers' opportunity cost
+
+- Value creation
+
+- Value capture
+
+- Business landscape
+
+- Cost leadership
+
+- Differentiation
+
+- Competitive advantage
+
+- Economies of scale
+
+- Economies of scope
+
+- Product market
+
+- Geographic market
+
+- Corporate strategy
+
+- Global strategy
+
+- Dynamic consistency
+
+- Imitation
+
+- Substitution
+
+- Holdup
