@@ -1,8 +1,8 @@
 ---
-title: Strategy Concepts
+title: Strategy - Recall
 layout: default
 ---
-# **Activity: Connecting the Dots: A Strategic Management Concept Exploration**
+# Activity: *Connecting the Dots* 
 
 <img src="/assets/images/connect-the-dots.jpeg" alt="An image of a connect the dots drawing" width="300"/>
 ### **Required Preparation**
