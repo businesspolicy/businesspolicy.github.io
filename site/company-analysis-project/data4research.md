@@ -1,6 +1,8 @@
 ---
 title: Data Sources
 layout: default
+parent: Company Analysis Project
+nav_order: 6
 ---
 
 
