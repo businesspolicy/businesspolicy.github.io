@@ -2,6 +2,7 @@
 title: Strategy - Application
 layout: default
 parent: Activity Set 1
+nav_order: 2
 ---
 # Activity: *What's Your Strategy?* 
 

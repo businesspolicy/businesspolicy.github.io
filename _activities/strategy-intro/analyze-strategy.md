@@ -1,11 +1,13 @@
 ---
-title: Analyze Strategy
+title: Strategy - Analysis
 layout: default
 parent: Activity Set 1
+nav_order: 3
 ---
 # Activity: *Analyze Business landscapes*
 
-<img src="/assets/images/whats-your-stategy.jpeg" alt="An image with text 'What's Your Strategy?'" width="300"/>
+<img src="/assets/images/lay-of-land.jpeg.jpeg" alt="Two hikers with backpacks pause on a rocky trail, gazing out at a breathtaking panorama of rolling hills and lush forests." width="300"/>
+
 ### **Required Preparation**
 
 Before this activity, please complete the following:
