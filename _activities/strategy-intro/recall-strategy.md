@@ -1,6 +1,7 @@
 ---
 title: Strategy - Recall
 layout: default
+parent: Activity Set 1
 ---
 # Activity: *Connecting the Dots* 
 
