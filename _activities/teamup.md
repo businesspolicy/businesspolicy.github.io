@@ -3,7 +3,7 @@ title: Team Up
 layout: default
 ---
 
-# Activity: *Team Up* - Forming Your Project Team
+# Activity: *Team Up* 
 
 <img src="/assets/images/teamup.jpeg" alt="Characters that appear like superheroes are teaming up!" width="200"/>
 <!-- ![Characters that appear like superheroes are teaming up!](/assets/images/teamup.jpeg) -->
