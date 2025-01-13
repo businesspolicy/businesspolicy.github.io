@@ -15,6 +15,154 @@ Before this activity, please complete the following:
 
 [![TV presenter with magazine cover on the background](http://img.youtube.com/vi/MyiI8FoJk54/0.jpg)](http://www.youtube.com/watch?v=MyiI8FoJk54)
 
+## Pub Quiz: Southwest Airlines - Strategy in Action
+
+**Description:** This activity is designed to help you apply key strategic management concepts to a real-world example: Southwest Airlines. We'll use a fun pub quiz format to test your knowledge and spark discussion.
+
+**Learning Objectives**
+
+By the end of this activity, you will be able to:
+
+*   Identify and define key strategic management concepts.
+*   Analyze a company's strategy using various frameworks.
+*   Connect theoretical concepts to real-world business practices.
+
+**Steps:**
+
+1.  **Work in Teams:** Work with your project team to complete the activity.
+2.  **Question Batches:** The quiz will consist of several batches of questions, each focusing on a specific set of topics from the reading.
+3.  **Teacher-led Discussion:** Before each batch, there will be a brief teacher-led discussion to review the relevant concepts and provide context.
+4.  **Group Discussion:** After each batch is introduced, discuss the questions with your team members, referring to the video, notes, or transcripts as needed.
+5.  **Answer and Present:**  Each team will be asked to answer a question and present their reasoning to the class.
+
+{: .note}
+> Do not use AI for this activity. This activity serves as preparation for case tests where you will have no AI to assist you in analysis. If you use AI, you will miss a critical opportunity to prepare for the tests. 
+
+**Self-assessment:**
+
+*   Active participation in group discussions.
+*   Quality and accuracy of answers presented to the class.
+*   Individual accountability through observation and potential follow-up questions.
+
+## Question Batches
+
+### Batch 1: Approaches to Strategic Management
+
+**Learning Objective:**
+
+- Apply diverse approaches to strategic management, including Internal and External Fit, Porter's Five Forces, Blue Ocean Strategy, and Emergent Strategy to understand SouthWest's business decisions. 
+
+The questions in this batch are primarily aimed to help you recall details from the video. For each of the questions, first choose an answer from the list of options. Then discuss and identify what approach to strategic management it represents. More than one approach may apply.
+1. Internal and External Fit
+1. Porter's Five Forces
+1. Blue Ocean Strategy
+1. Emergent Strategy
+
+<details markdown="block">
+<summary> <strong>Batch 1 Questions</strong> </summary>
+
+1. ***Southwest Airlines' decision to forgo interlining agreements with other airlines reflects its focus on which type of traveler?***
+    *   A)  Business travelers seeking the best fare deals.
+    *   B)  **Short-haul frequent flyers who prioritize convenience and speed.**
+    *   C)  Leisure travelers looking for affordable vacation packages.
+    *   D)  International travelers connecting to overseas destinations.
+
+1. ***How did Southwest Airlines' choice to use reusable plastic boarding passes and tickets resembling grocery store receipts contribute to its business model?***
+    *   A)  By enhancing brand recognition and customer loyalty.
+    *   B)  **By minimizing costs and streamlining operations.**
+    *   C)  By appealing to environmentally conscious passengers.
+    *   D)  By differentiating its services from competitors' offerings.
+
+1. ***Which of Porter's Five Forces did Southwest Airlines effectively mitigate by choosing to operate primarily in midsize cities and the secondary airports of large cities?***
+    *   A) Threat of New Entrants
+    *   B) **Bargaining Power of Buyers** 
+    *   C) Threat of Substitute Products or Services
+    *   D) Bargaining Power of Suppliers
+
+1. ***Which of Porter's Five Forces is most evident in the aggressive competition between Southwest Airlines and America West in Phoenix?***
+    *   A)  Bargaining Power of Suppliers.
+    *   B)  Threat of Substitute Products or Services.
+    *   C)  **Rivalry Among Existing Competitors.**
+    *   D)  Threat of New Entrants.
+1. ***What unconventional practice did Southwest Airlines adopt to enhance the passenger experience and differentiate itself from competitors?***
+    *   A)  Offering complimentary in-flight meals and beverages.
+    *   B)  Providing assigned seating to ensure passenger comfort.
+    *   C)  **Creating a fun and engaging atmosphere with games and entertainment.**
+    *   D)  Partnering with other airlines to offer seamless connections.
+1. ***Southwest Airlines' decision to focus on short-haul, point-to-point flights between midsize cities created a new market space. What traditional industry practice did this strategy disrupt?***
+    *   A)  **The hub-and-spoke model used by major airlines.**
+    *   B)  The reliance on travel agents for booking flights.
+    *   C)  The use of sophisticated computer reservation systems.
+    *   D)  The practice of offering first-class and business-class seating.
+1. ***Herb Kelleher's leadership style, characterized by flexibility and a willingness to experiment, fostered what type of strategic approach at Southwest Airlines?***
+    *   A)  A rigid, top-down approach to planning.
+    *   B)  A data-driven approach focused on market analysis.
+    *   C)  **An adaptive and evolving approach that responded to market dynamics.**
+    *   D)  A risk-averse approach that prioritized stability over innovation.
+1. ***Southwest Airlines' initial marketing campaigns, featuring flight attendants in hot pants and playful promotions, exemplified what aspect of emergent strategy?***
+    *   A)  Careful market research and analysis.
+    *   B)  **A willingness to experiment and adapt to customer feedback.**
+    *   C)  A focus on long-term strategic planning.
+    *   D)  A reliance on traditional industry practices.
+
+</details>
+
+**Batch 2: Value Creation and Value Capture**
+    *   Learning Objectives:
+        *   Analyze how Southwest Airlines created and captured value using relevant frameworks. 
+
+### Batch 3: Business Model, Fit, and Trade-off
+**Learning Objectives:**
+
+*   Analyze Southwest Airlines' business model and how its activities fit together. 
+*   Identify the trade-offs Southwest has made in its business model. 
+
+<details markdown="block">
+<summary> <strong>Batch 3 Questions</strong> </summary>
+
+1. ***Southwest Airlines' choice to forgo traditional meals and in-flight entertainment is an example of which business model concept?*** 
+*  A)  Value Proposition 
+*  B)  **Trade-offs** 
+*  C)  Customer Segments 
+*  D)  Key Activities 
+1. ***Which of the following best describes Southwest Airlines' value proposition?***
+*  A)  Providing a luxurious and comfortable flying experience. 
+*  B)  Offering the widest selection of destinations and connecting flights. 
+*  C)  **Delivering affordable, convenient, and fun short-haul air travel.**
+*  D)  Catering to business travelers with premium services and amenities.
+1. ***Southwest Airlines' use of reusable plastic boarding passes and simplified tickets demonstrates which level of fit in their business model?***
+*  A)  Simple Consistency 
+*  B)  **Optimization of Effort**
+*  C)  Mutually Reinforcing Activities 
+*  D)  Dynamic Adaptation 
+1. ***Southwest Airlines' focus on a single type of aircraft, the Boeing 737, primarily contributes to which aspect of its business model?*** 
+*  A)  Value Proposition 
+*  B)  Customer Relationships 
+*  C)  Channels 
+*  D)  **Key Activities** 
+1. ***Southwest Airlines' decision not to interline with other airlines is a trade-off that primarily impacts which element of its business model?***
+*  A)  **Customer Relationships** 
+*  B)  Key Partnerships 
+*  C)  Revenue Streams 
+*  D)  Cost Structure 
+1. ***Southwest Airlines' emphasis on employee satisfaction and a strong company culture contributes to which aspect of its business model?***
+*  A)  **Key Resources**
+*  B)  Value Proposition
+*  C)  Customer Segments
+*  D)  Revenue Streams 
+1. ***Which of the following best describes Southwest Airlines' approach to business model innovation?***
+*  A)  **Focusing on incremental improvements to existing processes.**
+*  B)  Regularly launching entirely new products and services. 
+*  C)  Disrupting the industry with radical technological advancements.
+*  D)  Prioritizing mergers and acquisitions to expand market share. 
+
+</details>
+
+**Batch 4: Tracing the Strategy Behind Concrete Choices**
+    *   Learning Objectives:
+        *   Connect specific business choices (e.g., use of secondary airports, no interlining) to underlying strategic concepts. 
+
+
 
 Can you create two pub trivia-style questions that connect content from the video to each of the concepts from the list below?
 
@@ -25,57 +173,8 @@ Can you create two pub trivia-style questions that connect content from the vide
 
 Here are two pub trivia-style questions for each concept, connecting content from the video to internal fit, external fit, Porter's Five Forces, creating blue ocean, and emergent strategy:
 
-### **Internal Fit and External Fit**
 
-*   **Question 1:** Southwest Airlines' decision to forgo interlining agreements with other airlines reflects its focus on which type of traveler?
-    *   A)  Business travelers seeking the best fare deals.
-    *   B)  **Short-haul frequent flyers who prioritize convenience and speed.**
-    *   C)  Leisure travelers looking for affordable vacation packages.
-    *   D)  International travelers connecting to overseas destinations.
-*   **Question 2:** How did Southwest Airlines' choice to use reusable plastic boarding passes and tickets resembling grocery store receipts contribute to its business model?
-    *   A)  By enhancing brand recognition and customer loyalty.
-    *   B)  **By minimizing costs and streamlining operations.**
-    *   C)  By appealing to environmentally conscious passengers.
-    *   D)  By differentiating its services from competitors' offerings.
 
-### **Porter's Five Forces**
-
-*   **Question 1:**  Which of Porter's Five Forces did Southwest Airlines effectively mitigate by choosing to operate primarily in midsize cities and the secondary airports of large cities?
-    *   A) Threat of New Entrants
-    *   B) **Bargaining Power of Buyers** 
-    *   C) Threat of Substitute Products or Services
-    *   D) Bargaining Power of Suppliers
-*   **Question 2:** Which of Porter's Five Forces is most evident in the aggressive competition between Southwest Airlines and America West in Phoenix?
-    *   A)  Bargaining Power of Suppliers.
-    *   B)  Threat of Substitute Products or Services.
-    *   C)  **Rivalry Among Existing Competitors.**
-    *   D)  Threat of New Entrants.
-
-### **Creating Blue Ocean**
-
-*   **Question 1:** What unconventional practice did Southwest Airlines adopt to enhance the passenger experience and differentiate itself from competitors?
-    *   A)  Offering complimentary in-flight meals and beverages.
-    *   B)  Providing assigned seating to ensure passenger comfort.
-    *   C)  **Creating a fun and engaging atmosphere with games and entertainment.**
-    *   D)  Partnering with other airlines to offer seamless connections.
-*   **Question 2:** Southwest Airlines' decision to focus on short-haul, point-to-point flights between midsize cities created a new market space. What traditional industry practice did this strategy disrupt?
-    *   A)  **The hub-and-spoke model used by major airlines.**
-    *   B)  The reliance on travel agents for booking flights.
-    *   C)  The use of sophisticated computer reservation systems.
-    *   D)  The practice of offering first-class and business-class seating.
-
-### **Emergent Strategy**
-
-*   **Question 1:** Herb Kelleher's leadership style, characterized by flexibility and a willingness to experiment, fostered what type of strategic approach at Southwest Airlines?
-    *   A)  A rigid, top-down approach to planning.
-    *   B)  A data-driven approach focused on market analysis.
-    *   C)  **An adaptive and evolving approach that responded to market dynamics.**
-    *   D)  A risk-averse approach that prioritized stability over innovation.
-*   **Question 2:** Southwest Airlines' initial marketing campaigns, featuring flight attendants in hot pants and playful promotions, exemplified what aspect of emergent strategy?
-    *   A)  Careful market research and analysis.
-    *   B)  **A willingness to experiment and adapt to customer feedback.**
-    *   C)  A focus on long-term strategic planning.
-    *   D)  A reliance on traditional industry practices.
 
 ### Value Creaation and Value Capture
 
