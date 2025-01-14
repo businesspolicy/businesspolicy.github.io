@@ -42,6 +42,24 @@ Building on this foundation, we'll engage in interactive activities, discussions
 
 Get ready to dive in and explore the fascinating world of strategy!
 
+Okay, it's time to delve into the first activity of this lesson: the recall activity. Here's the content from the provided link, along with some additional guidance to help students navigate it independently:
 
+***
+
+## Recall Activity: Connecting the Dots
+
+This activity is designed to help you refresh your memory and solidify your understanding of the key strategic management concepts introduced in the reading "Introduction to Strategy."
+
+Review the [activity instructions](/activities/strategy-intro/recall-strategy) carefully before you start.
+
+### Reflection
+
+After completing this activity, take a moment to reflect on your learning experience.
+
+*   Did you find it helpful to revisit and discuss these concepts?
+*   Were you able to make connections between different concepts that you hadn't considered before?
+*   How has this activity deepened your understanding of strategic management?
+
+This recall activity is designed to be a self-guided learning experience. However, feel free to discuss your insights with others or seek clarification if needed. The goal is to actively engage with the material and build a strong foundation for the rest of the lesson.
 
 
