@@ -42,8 +42,8 @@ nav_order: 2
           <p>01/16</p>
         </td>
         <td>
+          <p><a href="/topics/strategy-intro/">Introduction to Strategy</a></p>
           <p><a href="/tutorials/notebooklm-guide/index">NotebookLM Tutorial</a></p>
-          <p>Introduction to Strategy</p>
         </td>
         <td>
           <p>
