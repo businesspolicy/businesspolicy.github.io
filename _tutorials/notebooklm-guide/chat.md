@@ -52,8 +52,11 @@ By default, NotebookLM analyzes all the sources in your notebook when answering 
 
 You can also customize how NotebookLM responds to your questions by configuring the chat settings. This allows you to tailor the AI's output to your specific needs.
 
-**To configure chat:**
 
+{: .note}
+> Access to this configuration may not be available to free users. This will not affect outcomes for our intended use cases in this course.
+
+**To configure chat:**
 1. Click the **Configure Chat** button in the chat panel.
 2. You'll see options to customize the **conversational style** and **response length**.
 
