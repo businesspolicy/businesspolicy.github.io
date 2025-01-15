@@ -51,7 +51,7 @@ By the end of this activity, you will be able to:
         *   Strategic Management Approaches: Internal and external fit, five forces, blue ocean strategy, resource-based view and emergent strategy,
         *   Dynamic Consistency: Holdup, Imitation and substitution 
 
-3.  **Presentation:** Prepare a short presentation summarizing your analysis and key takeaways. Share your insights with the class.
+3.  **Presentation:** Prepare a short presentation summarizing your analysis and key takeaways. Share your insights with the class. (Slides are not expected or required. Just organized talking points to convey your insights would suffice.) 
 
 **Self-assessment:**
 
