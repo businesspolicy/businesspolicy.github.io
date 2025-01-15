@@ -59,9 +59,9 @@ To get a taste of company analysis using NotebookLM, let's add some sources for 
 
 <a href="/assets/files/2023-q4-earnings-transcript.pdf" download="2023-q4-earnings-transcript.pdf" target="_blank">Alphabet Earnings Call Transcript 2023 Q4</a>
 
-<a href="/assets/files/2022-q4-earnings-transcript.pdf" download="2022-q4-earnings-transcript.pdf" target="_blank">Alphabet Earnings Call Transcript 2022 Q4</a>
+<a href="/assets/files/2022_Q4_Earnings_Transcript.pdf" download="2022-q4-earnings-transcript.pdf" target="_blank">Alphabet Earnings Call Transcript 2022 Q4</a>
 
-<a href="/assets/files/2021-q4-earnings-transcript.pdf" download="2021-q4-earnings-transcript.pdf" target="_blank">Alphabet Earnings Call Transcript 2021 Q4</a>
+<a href="/assets/files/2021_Q4_Earnings_Transcript.pdf" download="2021-q4-earnings-transcript.pdf" target="_blank">Alphabet Earnings Call Transcript 2021 Q4</a>
 
 **Add as Google Docs**
 
