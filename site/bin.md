@@ -182,3 +182,15 @@ This structure is excellent for a flipped classroom! It provides a balance of in
 * **Flexibility:**  Be prepared to adjust the lesson plan based on student needs and the pace of learning.
 
 By following this structure and incorporating these enhancements, you can create engaging and effective flipped classroom lessons that achieve the learning objectives of your Strategic Management course.
+
+
+
+I think the chat configuration is a paid option. I have a paid service called Google AI premium and It includes a bundle of premium features. I just discovered that the chat configuration is part of the AI Premium. I think it will make it to the free tier when competition heats up a bit.
+Notes are the not-so-intuitive part. It's hard to convey its usefulness at this stage. Let's put some miles on the product and return to this conversation again. 
+
+I'll talk to you again about the pdf soon, Let me check some documentation on that.
+Thank you for your feedback :)
+
+Check out this description I've posted on the tutorial. https://businesspolicy.github.io/tutorials/notebooklm-guide/insights/#a-research-workflow-with-notes 
+
+It is a good place to start but requires some experimentation.
