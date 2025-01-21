@@ -15,11 +15,11 @@ layout: default
 
 ## Introduction to Strategy
 
-Welcome to the exciting world of strategic management! In this lesson, we'll start our journey to understand how organizations achieve their goals, navigate complex challenges, and thrive in a dynamic business environment.
+Welcome to strategic management! In this lesson, we'll start our journey to understand how organizations achieve their goals, navigate complex challenges, and thrive in a dynamic business environment.
 
 ### Why Strategy Matters
 
-Strategy is the art and science of making decisions that shape an organization's future. It's about understanding the competitive landscape, identifying opportunities, and making choices that align with an organization's overall goals and values. Whether you're an aspiring entrepreneur, a business professional, or simply someone interested in understanding how the world works, strategic management provides a powerful framework for making sense of the complexities of organizations and their interactions with rest of the society.
+Strategy is the art and science of making decisions that shape an organization's future. It's about understanding the business landscape, identifying opportunities, and making choices that align with an organization's overall goals and values. Whether you're an aspiring entrepreneur, a business professional, or simply someone interested in understanding how the world works, strategic management provides a powerful framework for making sense of the complexities of organizations and their interactions with rest of the society.
 
 ### What You'll Learn
 

@@ -194,3 +194,8 @@ Thank you for your feedback :)
 Check out this description I've posted on the tutorial. https://businesspolicy.github.io/tutorials/notebooklm-guide/insights/#a-research-workflow-with-notes 
 
 It is a good place to start but requires some experimentation.
+Project Kickoff
+PESTLE
+Five forces
+Strategic group analysis 
+tutorial day 1
