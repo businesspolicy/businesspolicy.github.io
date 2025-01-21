@@ -1,6 +1,7 @@
 ---
 title: Introduction to Strategy
 layout: default
+nav_order: 2
 ---
 # Introduction to Strategy
 {: .no_toc}

@@ -1,6 +1,7 @@
 ---
 title: Course Overview
 layout: default
+nav_order: 1
 ---
 # Course Introduction and Overview
 {: .no_toc}
