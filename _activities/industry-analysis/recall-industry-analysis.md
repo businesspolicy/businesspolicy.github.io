@@ -33,7 +33,7 @@ By the end of this activity, you will be able to:
 ---
 
 <div style="display: flex; flex-wrap: wrap; color: white;justify-content: space-around; width=100%">
-<span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;">Industry</span>
+<span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;">Industry definition</span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;">Willingness-to-pay</span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Supplier opportunity costs</span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Five forces</span>
