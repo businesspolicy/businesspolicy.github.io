@@ -43,7 +43,6 @@ By the end of this activity, you will be able to:
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Switching costs</span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Industry concentration</span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Vertical integration </span>
-<span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Substitution </span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Product differentiation</span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Perishability</span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Cost structure </span>
@@ -56,7 +55,6 @@ By the end of this activity, you will be able to:
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Value capture </span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Market power </span>
 <span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Cost advantage </span>
-<span style="background-color: #7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Substitution </span>
 <span style="background-color:#7253ed; padding: 5px 10px; margin: 5px; border-radius: 5px;"> Holdup </span>
 </div>
 ---
