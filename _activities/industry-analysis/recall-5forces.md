@@ -1,5 +1,5 @@
 ---
-title: Industry Analysis - Recall
+title: Five Forces - Recall
 layout: default
 parent: Activity Set 2
 nav_order: 1
@@ -65,7 +65,7 @@ By the end of this activity, you will be able to:
 
 2.  **Group Discussion:** Discuss the following for each of the five selected concepts:
     *   Definition: Define the concept in your own words.
-    *   Connection to Strategy: Explain how this concept relates to the overall process of strategic management.
+    *   Connection to Industry Analysis: Explain how this concept relates to the overall process of industry analysis.
     *   Relationships: Identify any connections or relationships between this concept and other concepts in the set. Summarize why it matters.
     *   Real-world Example: Provide a real-world example of how this concept applies in a business setting.
 3.  **Visual Representation:** Create a visual representation (e.g., mind map, concept map) to illustrate the connections between the five concepts.

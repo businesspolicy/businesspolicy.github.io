@@ -1,5 +1,5 @@
 ---
-title: Industry Analysis - Application
+title: Five Forces - Application
 layout: default
 parent: Activity Set 2
 nav_order: 2
