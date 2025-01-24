@@ -182,3 +182,61 @@ This structure is excellent for a flipped classroom! It provides a balance of in
 * **Flexibility:**  Be prepared to adjust the lesson plan based on student needs and the pace of learning.
 
 By following this structure and incorporating these enhancements, you can create engaging and effective flipped classroom lessons that achieve the learning objectives of your Strategic Management course.
+
+*   [MarketScope Advisor Industry Survey](http://pitt.idm.oclc.org/login?url=https://advisor.marketscope.com)
+
+> Industry Surveys:
+```markdown
+Aerospace & Defense
+Alternative Energy
+Asset Management & Custody Banks
+Automobile Manufacturers
+Biotechnology
+Building Products
+Capital Markets
+Chemicals
+Commercial Services & Supplies
+Communications Equipment
+Consumer Finance
+Consumer Staples Distribution & Retail
+Containers & Packaging
+Food Retail - Europe
+Food, Beverages & Tobacco
+Ground Transportation
+Health Care Equipment & Supplies
+Health Care Facilities
+Health Care Technology
+Hotels, Gaming & Leisure
+Household & Personal Products
+Household Durables
+IT Consulting & Other Services
+Infrastructure
+Interactive Media & Services
+Life & Health Insurance
+Life Sciences Tools & Services
+Machinery
+Managed Health Care
+Media & Entertainment
+Metals & Mining
+Midstream Oil & Gas
+Multinational Banks
+Passenger Airlines
+Pharmaceuticals
+Property & Casualty Insurance
+Real Estate Investment Trusts
+Restaurants
+Retail (Apparel)
+Retail (Non-Apparel)
+Semiconductors & Semiconductor Equipment
+Software
+Technology Hardware, Storage & Peripherals
+Technology Supply Chain
+Telecommunications: Asia
+Telecommunications: Europe
+Telecommunications: U.S.
+Textiles, Apparel & Luxury Goods
+Transaction & Payment Processing Services
+U.S. Regional Banks
+Upstream and Downstream Energy
+Utilities
+```
