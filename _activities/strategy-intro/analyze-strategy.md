@@ -7,7 +7,7 @@ nav_order: 3
 # Activity: *Analyze Business landscapes*
 **"The Business Landscape Before and After the iPhone" - A Microsoft Case Study**
 
-<img src="/assets/images/lay-of-land.jpeg.jpeg" alt="Two hikers with backpacks pause on a rocky trail, gazing out at a breathtaking panorama of rolling hills and lush forests." width="300"/>
+<img src="/assets/images/lay-of-land.jpeg" alt="Two hikers with backpacks pause on a rocky trail, gazing out at a breathtaking panorama of rolling hills and lush forests." width="300"/>
 
 ### **Required Preparation**
 
