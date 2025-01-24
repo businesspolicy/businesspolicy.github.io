@@ -8,6 +8,7 @@ nav_order: 6
 
 **Useful Data Sources for the Company Analysis Project**
 
+- [MarketScope Advisor Industry Survey](http://pitt.idm.oclc.org/login?url=https://advisor.marketscope.com)
 - [IBISWorld](http://pitt.idm.oclc.org/login?url=https://my-ibisworld-com.pitt.idm.oclc.org/) 
 - [CapitalIQ](https://www.capitaliq.com)
 - [Economist Intelligence Unit (EIU)](http://pitt.idm.oclc.org/login?url=https://viewpoint.eiu.com/)
