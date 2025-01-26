@@ -5,7 +5,9 @@ parent: Activity Set 2
 nav_order: 3
 ---
 
-# Complex Analysis Activity: Strategic Challenges and Opportunities in Generative AI
+# Five Forces - Analysis in Generative AI Industry
+
+<img src="/assets/images/five-forces.jpeg" alt="Mock diagram of industry at work" width="300"/>
 
 **Description:**
 

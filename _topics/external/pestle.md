@@ -1,7 +1,7 @@
 ---
 title: PESTLE Analysis
 layout: default
-parent: Industry Analysis
+parent: External Analysis
 ---
 
 # PESTLE Analysis

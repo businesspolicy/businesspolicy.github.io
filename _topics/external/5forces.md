@@ -1,7 +1,7 @@
 ---
 title: Five Forces Analysis
 layout: default
-parent: Industry Analysis
+parent: External Analysis
 ---
 
 # Five Forces Analysis
