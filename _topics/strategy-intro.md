@@ -64,8 +64,6 @@ After completing this activity, take a moment to reflect on your learning experi
 
 This recall activity is designed to be a self-guided learning experience. However, feel free to discuss your insights with others or seek clarification if needed. The goal is to actively engage with the material and build a strong foundation for the rest of the lesson.
 
-You're right! Let's move on to the next section, which is the Simple Application Activity. Here's the content adapted from the link you provided, enhanced for independent learning:
-
 ---
 
 ## Simple Application Activity: Pub Quiz - Southwest Airlines

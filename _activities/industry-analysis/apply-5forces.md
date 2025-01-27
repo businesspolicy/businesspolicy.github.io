@@ -15,11 +15,13 @@ Before this activity, please complete the following:
 1.  Complete the corresponding Canvas quiz.
 1.  Watch the assigned videos: 
 
+[![How Chips That Power AI Work](http://img.youtube.com/vi/njyZR0Ceke0/0.jpg)](http://www.youtube.com/watch?v=njyZR0Ceke0)
+
 [![How Google Makes AI Chips](http://img.youtube.com/vi/MucuOtJtqnM/0.jpg)](http://www.youtube.com/watch?v=MucuOtJtqnM)
 
 [![How Nvidia Powers ChatGPT](http://img.youtube.com/vi/d3L2uPuxOxU/0.jpg)](http://www.youtube.com/watch?v=d3L2uPuxOxU)
 
-### Simple Application Activity: Analyzing the Generative AI Landscape
+### Analyzing the Generative AI Landscape
 
 **Description:**
 
@@ -45,7 +47,7 @@ By the end of this activity, you will be able to:
         *   Refer to the industry analysis reading (Section 2.4.1) and consider factors such as customer needs, customer groups and alternative technologies (Derek Abell's three dimensions).
     *   **Identify the Players:**
         *   Who are the key players in this industry? Use five forces methodology to identify them.
-        *   The videos focus on the AI business interests of Google and Nvidia and highlight various supplier, customer, competitor, and complementor relationships.
+        *   The videos focus on the AI business interests of Nvidia, Google and Amazon. They highlight various supplier, customer, competitor, and complementor relationships.
         *   Create a map of these relationships. You may notice that any pair of companies may share more than one relationship. For example, Google is both a supplier and a competitor to Apple. Record these relationships. 
         *   Can you identify different business models prevalent across this industry landscape?.
     *   **Concept Application:** How do the following industry analysis concepts manifest in the videos?
