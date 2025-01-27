@@ -83,7 +83,12 @@ nav_order: 2
           <p>02/11</p>
         </td>
         <td>
-          <p>Industry Analysis</p>
+          <p><a href= "/tutorials/know-your-company">Know your company</a></p>
+          <p>
+            <span><a href= "/topics/external/5forces">Five Forces Analysis</a></span></p>
+          <p><a href= "/topics/external/pestle">PESTLE Analysis</a></p>
+          <p><a href= "/topics/external/strategic-groups">Strategic Group Analysis</a></p>
+          <p><a href= "/tutorials/external-analysis/index">External Analysis Tutorial</a></p>
         </td>
         <td>
           <p>

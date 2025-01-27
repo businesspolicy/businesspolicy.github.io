@@ -1,7 +1,7 @@
 ---
 title: Know Your Company
 layout: default
-nav_order: 4
+nav_order: 2
 ---
 # Know Your Company
 {: .no_toc}
