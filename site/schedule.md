@@ -9,8 +9,7 @@ nav_order: 2
   <thead>
     <tr>
       <th style="width: 5%">Module #</th>
-      <th style="width: 5%">Dates</th>
-      <th>Topic</th>
+      <th style="width: 42%">Date & Topic</th>
       <th>Tasks <span class="label label-red">ToDo</span></th>
     </tr>
   </thead>
@@ -18,10 +17,7 @@ nav_order: 2
     <tr>
       <td>1</td>
       <td>
-        <p>01/09</p>
-      </td>
-      <td>
-        <p><a href="/topics/overview">Course Overview</a></p>
+        <p><span>01/09</span>: <a href="/topics/overview">Course Overview</a></p>
       </td>
       <td>
         <p>
@@ -30,7 +26,6 @@ nav_order: 2
               <li> Create CapitalIQ account</li>
               <li> Sign up for NotebookLM</li>
               <li> Submit exit ticket</li>
-
             </ul>
         </p>
       </td>
@@ -38,12 +33,8 @@ nav_order: 2
     <tr>
         <td>2</td>
         <td>
-          <p>01/14</p>
-          <p>01/16</p>
-        </td>
-        <td>
-          <p><a href="/topics/strategy-intro/">Introduction to Strategy</a></p>
-          <p><a href="/tutorials/notebooklm-guide/index">NotebookLM Tutorial</a></p>
+          <p>01/14: <a href="/topics/strategy-intro/">Introduction to Strategy</a></p>
+          <p>01/16: <a href="/tutorials/notebooklm-guide/index">NotebookLM Tutorial</a></p>
         </td>
         <td>
           <p>
@@ -58,11 +49,8 @@ nav_order: 2
     <tr>
         <td>3</td>
         <td>
-          <p>01/21</p>
-          <p>01/23</p>
-        </td>
-        <td>
-          <p><a href= "company-analysis-project/dryrun">Project Dry Run</a></p>
+          <p>01/21: <a href= "company-analysis-project/dryrun">Project Dry Run</a></p>
+          <p>01/23: <a href= "company-analysis-project/dryrun">Project Dry Run</a></p>
         </td>
         <td>
           <p>
@@ -76,19 +64,11 @@ nav_order: 2
     <tr>
         <td>4</td>
         <td>
-          <p>01/28</p>
-          <p>01/30</p>
-          <p>02/04</p>
-          <p>02/06</p>
-          <p>02/11</p>
-        </td>
-        <td>
-          <p><a href= "/tutorials/know-your-company">Know your company</a></p>
-          <p>
-            <span><a href= "/topics/external/5forces">Five Forces Analysis</a></span></p>
-          <p><a href= "/topics/external/pestle">PESTLE Analysis</a></p>
-          <p><a href= "/topics/external/strategic-groups">Strategic Group Analysis</a></p>
-          <p><a href= "/tutorials/external-analysis/index">External Analysis Tutorial</a></p>
+          <p>01/28: <a href= "/tutorials/know-your-company">Know your company</a></p>
+          <p>01/30: <a href= "/topics/external/5forces">Five Forces Analysis</a></p>
+          <p>02/04: <a href= "/topics/external/pestle">PESTLE Analysis</a></p>
+          <p>02/06: <a href= "/topics/external/strategic-groups">Strategic Group Analysis</a></p>
+          <p>02/11: <a href= "/tutorials/external-analysis/index">External Analysis Tutorial</a></p>
         </td>
         <td>
           <p>
@@ -104,10 +84,7 @@ nav_order: 2
     <tr>
         <td>5</td>
         <td>
-          <p>02/13</p>
-        </td>
-        <td>
-          <p>Case Test 1</p>
+          <p>02/13: Case Test 1</p>
         </td>
         <td>
             <ul>
@@ -119,16 +96,13 @@ nav_order: 2
     <tr>
         <td>6</td>
         <td>
-          <p>02/18</p>
-          <p>02/20</p>
-          <p>02/25</p>
-          <p>02/27</p>
-          <p>03/11</p>
-          <p>03/13</p>
-          <p>03/18</p>
-        </td>
-        <td>
-          <p>Competitive Advantage Analysis</p>
+          <p>02/18: Competitive Advantage Analysis</p>
+          <p>02/20: Competitive Advantage Analysis</p>
+          <p>02/25: Competitive Advantage Analysis</p>
+          <p>02/27: Competitive Advantage Analysis</p>
+          <p>03/11: Competitive Advantage Analysis</p>
+          <p>03/13: Competitive Advantage Analysis</p>
+          <p>03/18: Competitive Advantage Analysis</p>
           <blockquote class="note-title"><p>Spring Recess</p><p>No classes between 03/02 to 03/09</p></blockquote>
         </td>
         <td>
@@ -150,10 +124,7 @@ nav_order: 2
     <tr>
         <td>7</td>
         <td>
-          <p>03/20</p>
-        </td>
-        <td>
-          <p>Case Test 2</p>
+          <p>03/20: Case Test 2</p>
         </td>
         <td>
             <ul>
@@ -165,13 +136,10 @@ nav_order: 2
     <tr>
         <td>8</td>
         <td>
-          <p>03/25</p>
-          <p>03/27</p>
-          <p>04/01</p>
-          <p>04/03</p>
-        </td>
-        <td>
-          <p>Corporate Strategy</p>
+          <p>03/25: Corporate Strategy</p>
+          <p>03/27: Corporate Strategy</p>
+          <p>04/01: Corporate Strategy</p>
+          <p>04/03: Corporate Strategy</p>
         </td>
         <td>
             <ul>
@@ -191,10 +159,7 @@ nav_order: 2
     <tr>
       <td>9</td>
       <td>
-        <p>04/08</p>
-      </td>
-      <td>
-        <p>Case Test 3</p>
+        <p>04/08: Case Test 3</p>
       </td>
       <td>
           <ul>
@@ -206,11 +171,8 @@ nav_order: 2
     <tr>
         <td>10</td>
         <td>
-          <p>04/10</p>
-          <p>04/15</p>
-        </td>
-        <td>
-          <p>Strategic Initiatives: Development and Execution</p>
+          <p>04/10: Strategic Initiatives: Development and Execution</p>
+          <p>04/15: Strategic Initiatives: Development and Execution</p>
         </td>
         <td>
             <ul>
@@ -224,11 +186,8 @@ nav_order: 2
     <tr>
         <td>11</td>
         <td>
-          <p>04/17</p>
-          <p>04/22</p>
-        </td>
-        <td>
-          <p>Home Stretch</p>
+          <p>04/17: Home Stretch</p>
+          <p>04/22: Home Stretch</p>
         </td>
         <td>
             <ul>
