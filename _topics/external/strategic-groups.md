@@ -57,30 +57,45 @@ What exactly are strategic groups?
 * **Similar competitive advantages:** They compete based on similar strengths, such as brand reputation, technology, or distribution networks.
 * **Similar value chain configurations:** They have similar approaches to activities like production, marketing, and distribution.
 
+{: .note-title}
+> A Technique for Understanding a Complex Landscape:
+>
+> Strategic group analysis helps simplify complex industries by grouping companies with similar business models and strategies, making it easier to understand the competitive landscape. It's like creating a map of a crowded city, organizing it into neighborhoods based on shared characteristics. This simplification allows for a more focused analysis of rivals, potential customers, and new opportunities.
+
+
 It's important to remember that strategic groups are distinct from broader industry classifications. While all firms in a strategic group belong to the same industry, not all firms in an industry belong to the same strategic group. For example, the airline industry includes different strategic groups such as full-service carriers (e.g., Delta, United), low-cost carriers (e.g., Southwest, Spirit), and regional carriers (e.g., Cape Air, SkyWest).
-
-**Key Dimensions for Defining Strategic Groups:**
-
-Several key dimensions can be used to define strategic groups. These dimensions will vary depending on the specific industry being analyzed. Some common dimensions include:
-
-* **Product/service quality:** High vs. low quality
-* **Pricing policies:** Premium vs. discount pricing
-* **Distribution channels:** Direct sales vs. retail distribution
-* **Market segmentation:** Broad vs. niche market focus
-* **Technological leadership:** Innovative vs. follower
-* **Brand image:** Strong vs. weak brand reputation
-* **Degree of vertical integration:**  High vs. low
-* **Geographic scope:** Local vs. global
-
-By analyzing these and other relevant dimensions, we can begin to identify and categorize the strategic groups within an industry.
 
 ## Identifying Strategic Groups
 
-Now that we understand what strategic groups are, how do we actually identify them within an industry? This process involves two key steps:
+Now that we understand what strategic groups are, let's explore how to identify them within an industry. This process involves three key steps:
 
-1. **Selecting Key Dimensions:** First, we need to identify the most important dimensions that distinguish firms within the industry. This often requires conducting research and gathering data on factors such as product offerings, target markets, pricing strategies, distribution channels, and technological capabilities. The specific dimensions used will vary depending on the industry being analyzed.
+### 1. Identifying Key Dimensions
 
-2. **Mapping Strategic Groups:** Once we have selected the key dimensions, we can create a **strategic group map** to visually represent the competitive landscape. A strategic group map is a two-dimensional graph that plots firms based on their positions on two chosen dimensions. Firms that are located close to each other on the map belong to the same strategic group.
+First, we need to identify the key dimensions that distinguish firms within the industry. These dimensions should be **analytically valuable**, meaning they help us understand the competitive landscape and inform strategic decision-making. Additionally, the dimensions should be **conceptually distinct** and **orthogonal** to one another, ensuring they capture different aspects of the competitive landscape.
+
+Examples of key dimensions include:
+
+*   **Product/service quality:** High vs. low quality.
+*   **Pricing policies:** Premium vs. discount pricing.
+*   **Distribution channels:** Direct sales vs. retail distribution.
+*   **Market segmentation:** Broad vs. niche market focus.
+*   **Technological leadership:** Innovative vs. follower.
+*   **Brand image:** Strong vs. weak brand reputation.
+*   **Degree of vertical integration:** High vs. low.
+*   **Geographic scope:** Local vs. global.
+
+The specific dimensions used will vary depending on the industry being analyzed. For example, in the airline industry, key dimensions might include the type of service offered (full-service vs. low-cost), the route network (hub-and-spoke vs. point-to-point), and the level of vertical integration (owning maintenance facilities vs. outsourcing).
+
+### 2. Selecting Dimensions for Mapping
+
+Once we have identified a list of key dimensions, we need to select two for mapping the firms. The choice of dimensions depends on the specific analytical goals. For example, if the goal is to identify potential acquisition targets, we might choose dimensions that reflect market share and financial strength. If the goal is to anticipate new market entrants, we might choose dimensions that reflect barriers to entry and technological innovation.
+
+### 3. Mapping Strategic Groups
+
+The final step is to map the firms on a two-dimensional graph, using the selected dimensions as axes. Firms that are located close to each other on the map belong to the same strategic group. The size of the circles representing each firm can be adjusted to reflect their market share or other relevant metrics.
+
+By visually representing the strategic groups, we can gain a clearer understanding of the competitive landscape and identify potential opportunities and threats.
+
 
 **Creating a Strategic Group Map:**
 
@@ -97,7 +112,7 @@ Now that we understand what strategic groups are, how do we actually identify th
 
 Imagine we are analyzing the automobile industry. We might choose "price" and "product range" as our two key dimensions. The resulting strategic group map might look something like this:
 
-[Image of a strategic group map for the automobile industry, with price on the y-axis and product range on the x-axis. The map shows different strategic groups such as luxury brands, economy brands, and full-line automakers.]
+![Strategic Groups in the Auto Industry](/assets/images/strategic-group-auto-industry.png)
 
 **Benefits of Strategic Group Mapping:**
 
@@ -162,48 +177,13 @@ Strategic group analysis is even more powerful when combined with other analytic
 
 By integrating these frameworks, you can gain a holistic understanding of the competitive landscape and develop more robust and effective strategies.
 
-## Case Study: The Coffee Industry
+## Activity: Analyze Generative AI Industry
 
-![Strategic Groups in the AI Industry](/assets/images/ai-strategic-groups.png)
+In this activity you will continue your analysis of the generative AI industry using the Strategic Groups Analysis. I strongly recommend that you continue using the industry definition you developed in the previous lesson. 
 
-Let's apply strategic group analysis to a real-world example: the coffee industry.
+{: .highlight}
+>Visit the [activity page](/activities/industry-analysis/analyze-strategic-groups) and complete the activity with your group.
 
-**1. Identifying Key Dimensions:**
-
-Several dimensions differentiate coffee companies. For this analysis, we'll focus on two:
-
-* **Price:** Ranging from low-cost to premium prices.
-* **Product Scope:**  From a narrow focus (e.g., only coffee) to a broad scope (e.g., coffee, tea, pastries, food).
-
-**2. Mapping Strategic Groups:**
-
-Based on these dimensions, we can identify several strategic groups:
-
-* **Low-Cost, Narrow Focus:**  Companies like McDonald's and Dunkin' focus on low-priced coffee with a limited selection of other offerings.
-* **Mid-Range, Broad Scope:** Starbucks and Peet's Coffee offer a wider variety of coffee drinks, along with food and other beverages, at a moderate price point.
-* **Premium, Narrow Focus:**  Specialty coffee shops and roasters like Blue Bottle Coffee and Intelligentsia focus on high-quality coffee with a limited food selection.
-* **Premium, Broad Scope:**  Upscale coffee houses and cafes may offer a full menu alongside premium coffee, often in a more sophisticated setting.
-
-[Image of a strategic group map for the coffee industry, with price on the y-axis and product scope on the x-axis, showing the different strategic groups mentioned above.]
-
-**3. Analyzing Competitive Dynamics:**
-
-* **Low-Cost, Narrow Focus:** High rivalry due to price sensitivity and numerous competitors.
-* **Mid-Range, Broad Scope:**  Competition based on convenience, brand image, and product variety.
-* **Premium, Narrow Focus:**  Focus on quality, differentiation, and customer experience.
-* **Premium, Broad Scope:**  Competition based on ambiance, service, and unique offerings.
-
-**4. Implications for Strategic Decision-Making:**
-
-* A low-cost competitor might consider expanding its product scope to attract new customers.
-* A premium player might focus on building brand loyalty and customer experience to defend against new entrants.
-
-**5. Integrating with Other Frameworks:**
-
-* **Five Forces:**  The threat of new entrants might be higher for the low-cost group due to lower barriers to entry.
-* **PESTLE:**  Changes in consumer preferences for sustainable or ethically sourced coffee could favor premium players.
-
-This case study illustrates how strategic group analysis can be used to understand the competitive landscape and inform strategic decision-making in a real-world industry.
 
 ## Conclusion
 
