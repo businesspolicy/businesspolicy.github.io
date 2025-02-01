@@ -76,3 +76,6 @@ After completing this activity, reflect on the following questions:
 > Watch the video linked to below to get a glimpse of cross-cutting relationships between business, society, and government. 
 
 [![Federal Trade Commission Chair Lina Khan: The 60 Minutes Interview](http://img.youtube.com/vi/ebQtWZH3TW4/0.jpg)](http://www.youtube.com/watch?v=ebQtWZH3TW4)
+
+
+[![Why the FTC Is Losing Against Big Tech](http://img.youtube.com/vi/q0_0eiN53yM/0.jpg)](http://www.youtube.com/watch?v=q0_0eiN53yM)
