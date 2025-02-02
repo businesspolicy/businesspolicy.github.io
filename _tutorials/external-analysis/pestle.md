@@ -12,11 +12,11 @@ In this section, we'll apply the PESTLE framework to your company analysis proje
 
 1.  **Identify Relevant Industries:**
 
-    Briefly review your company's business description from its Form10-K. Define the industry boundary using the step-1 of the six-step process introduced in the Industry Analysis Reading. Remember that companies often operate in mutiple product and geographic markets and you may need to use multiple industries to fully define your company's business profile.
+    Briefly review your company's business description from its Form10-K. Define the industry boundary using the step-1 of the six-step process introduced in the Industry Analysis Reading. Remember that companies often operate in mutiple product and geographic markets and you may need to use multiple industry definitions to fully address your company's business profile.
 
 2.  **Access Industry Reports:**
 
-    Utilize the library resources, such as [IBISWorld](http://pitt.idm.oclc.org/login?url=https://my-ibisworld-com.pitt.idm.oclc.org/) and [MarketScope Advisor](http://pitt.idm.oclc.org/login?url=https://advisor.marketscope.com), to access industry reports and analysis on your company's industries. These reports often provide valuable insights into the PESTLE factors affecting the industry. 
+    Utilize the library resources, such as [IBISWorld](http://pitt.idm.oclc.org/login?url=https://my-ibisworld-com.pitt.idm.oclc.org/) and [MarketScope Advisor](http://pitt.idm.oclc.org/login?url=https://advisor.marketscope.com), to access any relevant industry reports and analysis on your company's industries. These reports often provide valuable insights into the PESTLE factors affecting the industry. 
     
     {: .note-title}
     >Other Industry Analysis Resources:
@@ -26,7 +26,7 @@ In this section, we'll apply the PESTLE framework to your company analysis proje
 
 3.  **Conduct PESTLE Analysis:**
 
-    Follow these steps to conduct a PESTLE analysis of your company's industry:
+    Follow these steps to conduct a PESTLE analysis of your company's industries:
 
     *   **Identify relevant factors:** Based on the industry reports and your understanding of the company, identify the key PESTLE factors that are likely to impact the industry.
     *   **Analyze the impact:** Evaluate the potential impact of each factor on the industry, considering both positive and negative effects.
@@ -43,7 +43,7 @@ In this section, we'll apply the PESTLE framework to your company analysis proje
 
 **Additional Considerations:**
 
-*   **Focus on relevance:** Not all PESTLE factors will be equally relevant to every industry. Prioritize the factors that are most likely to impact your company's specific situation.
+*   **Focus on relevance:** Not all PESTLE factors will be equally relevant to every industry and the impact of the factors will vary depending on the industry. For each industry,  prioritize the factors that are most likely to impact. 
 *   **Use multiple sources:** Don't rely solely on the industry reports. Consider using other sources, such as news articles, academic research, and industry blogs, to gather a comprehensive understanding of the PESTLE factors.
 *   **Collaborate with others:** Discuss your analysis with your classmates or instructor to gain different perspectives and insights.
 
