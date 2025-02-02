@@ -18,10 +18,6 @@ In this section, we'll apply the PESTLE framework to your company analysis proje
 
     Utilize the library resources, such as [IBISWorld](http://pitt.idm.oclc.org/login?url=https://my-ibisworld-com.pitt.idm.oclc.org/) and [MarketScope Advisor](http://pitt.idm.oclc.org/login?url=https://advisor.marketscope.com), to access any relevant industry reports and analysis on your company's industries. These reports often provide valuable insights into the PESTLE factors affecting the industry. 
     
-    {: .note-title}
-    >Other Industry Analysis Resources:
-    >
-    >University of Pittsburgh Library System provides access to a number of industry research resources that could be useful in your analysis. See this link for more information: [https://pitt.libguides.com/industryresearch/reports](https://pitt.libguides.com/industryresearch/reports)
 
 
 3.  **Conduct PESTLE Analysis:**
@@ -35,16 +31,13 @@ In this section, we'll apply the PESTLE framework to your company analysis proje
 
 4.  **Integrate PESTLE Insights:**
 
-    Once you've completed your PESTLE analysis, integrate the insights into your company analysis project. Consider how the identified factors might affect your company's opportunities, threats, and strategic choices.
+    Once you've completed your PESTLE analysis, integrate the insights into your company analysis project. Consider how the identified factors might affect your industry's customers, their willingness-to-pay, suppliers, their opportunity costs, and more generally factors that are considered table stakes in an industry.
 
 5.  **Reflect and Discuss:**
 
-    Reflect on your analysis and discuss your findings with your classmates or instructor. Compare your analysis with others and identify any common themes or variations.
+    Reflect on your analysis and discuss your findings with your project team members. Compare your analysis with others and identify any common themes or variations.
 
 **Additional Considerations:**
 
 *   **Focus on relevance:** Not all PESTLE factors will be equally relevant to every industry and the impact of the factors will vary depending on the industry. For each industry,  prioritize the factors that are most likely to impact. 
 *   **Use multiple sources:** Don't rely solely on the industry reports. Consider using other sources, such as news articles, academic research, and industry blogs, to gather a comprehensive understanding of the PESTLE factors.
-*   **Collaborate with others:** Discuss your analysis with your classmates or instructor to gain different perspectives and insights.
-
-By following these steps and utilizing the provided resources, you can conduct a thorough PESTLE analysis of your company's industry and gain valuable insights for your strategic recommendations.

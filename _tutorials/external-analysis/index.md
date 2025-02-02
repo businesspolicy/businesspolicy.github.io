@@ -34,6 +34,11 @@ Before diving into the individual frameworks, there are a few common steps to en
     > - One approach is to start with a review of relevant industry reports from sources such as [Market Scope Advisor's industry survey](http://pitt.idm.oclc.org/login?url=https://advisor.marketscope.com) and [IBISWorld industry reports](http://pitt.idm.oclc.org/login?url=https://my-ibisworld-com.pitt.idm.oclc.org/). 
     - Remember that this is just a shortcut to jump-start your analysis. 
     - You should review and brainstorm this information in your group to map the ecosystem and refrain from taking the reports at face value.
+    >
+    >**Other Industry Analysis Resources:**
+    >
+    >University of Pittsburgh Library System provides access to a number of industry research resources that could be useful in your analysis. See this link for more information: [https://pitt.libguides.com/industryresearch/reports](https://pitt.libguides.com/industryresearch/reports)
+
 
 1.  **Identify Key Players:**
     *   List the companies that are active in your company's business landscape.
@@ -44,4 +49,9 @@ Before diving into the individual frameworks, there are a few common steps to en
     *   Identify relevant data sources and add them to your NotebookLM notebook.
     *   If you find relevant information from industry surveys and reports, add them as notes to your notebook.
     *   You may find useful industry profiles as YouTube videos. If adding them directly fails, adding nnnotes based on videos will often meet your needs.
+
+1. **Apply a Structured Approach:**
+    *   Given the use of NotebookLM and AI assistants in this course, you may be tempted to jump head first without a plan. Tread carefully.
+    *   In my experience, students and new analysts [satisfice](https://en.wikipedia.org/wiki/Satisficing) and move forward more prematurely when using AI-based tools. Often resulting in failure to meet analytical goals of the exercise.
+    *   Adopt a disciplined research workflow to prevent such failures. See the [research workflow disucssion](/tutorials/know-your-company/#developing-a-research-workflow) from the "Know Your Company" tutorial.
 
