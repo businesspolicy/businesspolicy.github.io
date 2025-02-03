@@ -9,7 +9,7 @@ nav_order: 3
 
 1.  **List Relevant Companies:**
 
-    Use the content from earnings call transcripts, industry reports, analyst reports, and executive interviews to create a list of companies operate in your business landscape. Make sure to understand and confirm how these companies relate to yours. Comparing business models, horizontal/vertical integration, product markets and geographic presence often provides a good start. 
+    Use the content from earnings call transcripts, industry reports, analyst reports, and executive interviews to identify a list of companies that operate in your business landscape. Make sure to understand and confirm how these companies relate to yours. Comparing business models, horizontal/vertical integration, product markets and geographic presence often provides a good start. 
 
 1.  **Identify Key Dimensions:**
     *   Identify the key dimensions that differentiate firms within your company's industry.
@@ -19,22 +19,21 @@ nav_order: 3
     *   Create a strategic group map to visually represent the competitive landscape.
     *   Select two key dimensions and plot the firms in the industry on the map.
     *   Group firms that are located close to each other on the map into strategic groups.
-    *   Label the groups appropriately for easier communication.
+    *   See the [topic page](/topics/external/strategic-groups) and [activity page](/activities/industry-analysis/analyze-strategic-groups) for more information and relevant examples. 
 
 1.  **Analyze Competitive Dynamics:**
     *   Analyze the competitive dynamics within and between strategic groups.
     *   Consider how the different groups compete with each other and how their strategies might evolve.
 
-### External Analysis Synthesis
-
 1.  **Integrate Insights:**
     *   Combine the insights from your Five Forces, PESTLE, and Strategic Group analyses to develop a holistic understanding of the external environment.
     *   Consider how the different forces and factors interact and influence each other.
-    *   Helpful Hint: Use a visual representation, such as a diagram or mind map, to synthesize your findings.
+    *   Helpful Hints: 
+        1.  The impact of five forces and PESTLE factors on a company often varies depending on the strategic group to which it belongs.
+        1.  Develop a good sense of your companies customers and suppliers. Don't overlook the role of key stakeholders such as employees, communities, and regulators as suppliers.
+        1.  Consider how the external environment might affect your company's opportunities, threats, and strategic choices.
+        1.  Reframe the insights from customers' willingness-to-pay and suppliers' opportunity cost perspective.
 
-2.  **Apply to Your Company:**
-    *   Apply the insights from your external analysis to your chosen company.
-    *   Consider how the external environment might affect your company's opportunities, threats, and strategic choices.
 
 ### Conclusion
 
