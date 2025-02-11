@@ -62,18 +62,22 @@ Altman looks intently at his team – the heads of research, product, partnershi
 
 **Decision Prompt:**
 
-Assume the role of OpenAI's senior executive team.  Develop strategic recommendations for CEO Sam Altman.  Using Porter's Five Forces analysis of the generative AI foundational model industry, PESTLE analysis of the external environment (as interwoven throughout the case), and Strategic Group analysis to understand competitive positioning, analyze the implications of DeepSeek's open-source model for OpenAI.  Recommend a comprehensive course of action for OpenAI to navigate this evolving landscape, considering both short-term market pressures and long-term strategic positioning. Justify your recommendations with a clear rationale, drawing evidence and insights from the case study.
-
-**Considerations for Student Responses:** 
-
-*   OpenAI's current competitive advantages (model performance, brand, first-mover advantage, Microsoft partnership).
-*   Potential vulnerabilities exposed by open-source models (commoditization of base models, pricing pressure on APIs, competition for talent).
-*   Opportunities for OpenAI (new applications, enterprise solutions, hybrid open-source/proprietary models, strengthening Microsoft partnership, diversification of revenue streams).
-*   Long-term strategic options:
-    *   **Defend Proprietary Model Dominance:** Focus on maintaining a significant performance lead, emphasizing premium features and enterprise-grade reliability, reinforcing IP protection.
-    *   **Adapt to Hybrid Model Strategy:** Explore selective open-source releases, while retaining proprietary models for key revenue-generating applications, build services and support around open-source models.
-    *   **Offensive Diversification:** Expand beyond foundational models into higher-value application layers, develop specialized AI solutions for specific industries, leverage its brand and data assets in new markets.
-    *   **Deepen Hyperscaler Partnership (Microsoft):** Strengthen the strategic alliance, explore new joint offerings, leverage Azure's distribution and enterprise reach, seek more favorable terms or greater independence within the partnership.
+{: .warning-title}
+> **Important Notice: Paper-Based Case Test Component**
+> 
+> This online material provides the background case information for your upcoming test. Please note that the specific managerial decision scenario and the detailed decision prompt **are not included here**. These will be provided to you separately as part of a paper-based test.
+> 
+> To prepare effectively for the paper-based test, it is **highly recommended** that you practice applying Porter’s Five Forces analysis, PESTLE analysis, and Strategic Group analysis to the case content presented here. Familiarize yourself with the industry dynamics, competitive forces, and external factors described in the case.
+> 
+> For the paper-based test, you are **permitted to bring two pages of printed notes**.  To make the most of this resource, consider these tips for preparing your notes:
+> 
+>*   **Focus on Framework Application:** Structure your notes around the three analytical frameworks. For each framework, outline the key steps, concepts, and potential questions to consider when applying it to a business case.
+> *   **Summarize Key Case Facts:**  Condense the most critical information from the case study – key industry players, value chain activities, inter-industry relationships, and notable PESTLE factors. Use concise bullet points or short phrases.
+> *   **Create Framework-Specific Checklists:** Develop brief checklists for each framework to ensure you systematically address all relevant aspects during the test. For example, for Porter's Five Forces, list each force and prompting questions.
+> *   **Include Key Vocabulary & Concepts:** Define any essential industry-specific terms or strategic management concepts that you want to have readily available.
+> *   **Prioritize Clarity and Conciseness:**  Use a font size that is readable but allows you to fit a substantial amount of information on two pages. Organize your notes logically with headings, subheadings, and bullet points for quick reference.
+> 
+> By practicing with the case content and preparing well-structured notes, you will be well-equipped to tackle the managerial decision scenario presented in the paper-based test. Good luck!
 
 
 ### Conclusion: The Unfolding AI Revolution
