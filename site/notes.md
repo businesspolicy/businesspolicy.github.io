@@ -25,4 +25,7 @@ adjust scope of operations to increase wedge between WTP and SOC
 start with market opportunities / options - map the activity required - 
 local optimizations vs global optmization 
 value chain linkage - step change - multiple value chain activities need to be changes in unison
-landscape metaphot - multiple peaks ->  multiple viable business models
+landscape metaphor - multiple peaks ->  multiple viable business models
+value proposition diagram - value propositions that customers are not willing to pay for are waste
+mass customization 
+
