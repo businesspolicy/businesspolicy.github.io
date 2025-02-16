@@ -38,3 +38,14 @@ Source of sustainability:
 5. Learning curve -  organizational memory, network effects, premature optimization 
 6. Economies of scale - Fixed cost advertising, R&D, distrbution infrastructure, 
 7. Intellectual property rights -
+Activity that maps source of sustainability to company's value chain activities
+barriers to innovation: culture, managment systems, incentives
+velocity of innovation as source of market power
+launch -innovate - converge - transform
+governance - change management 
+intuit case
+IBM case - PC as before Gerstner's lifecycele based model as after.
+Tesla example
+innovation lide cycle model h3, h2, h1
+internal innovation capability
+
