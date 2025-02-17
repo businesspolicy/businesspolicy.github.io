@@ -2,7 +2,9 @@ continue from external analysis
 above average economic profits -> value added 
 WTP vs SOC - the wedge
 wider wedge - competitive advantage
-scope of business strategu analysis - understand, create, and sustain competitive advantage 
+Added value and competitive advantage
+scope of business strategy analysis - understand, create, and sustain competitive advantage 
+differentiation, low-cost strategy, dual 
 value proposition and customer journey 
 overall context for competitive advantage or business strategy analysis
 creation of competitive advantage and sustaining it is inseparable 
