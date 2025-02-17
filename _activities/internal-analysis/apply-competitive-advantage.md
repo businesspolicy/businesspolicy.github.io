@@ -29,7 +29,7 @@ Before this activity, please complete the following:
 This activity challenges you to apply competitive advantage analysis concepts to Ryanair's budget airline business. You'll work in teams to analyze and describe how these concepts manifest in this real-world example. 
 
 {: .note}
-> This activity when completed will represent the first three steps of the the four-step competitive advantage analysis process described in the Competitive Advantage reading (See page 15). You will complete the final step of the analysis in the next activity.
+> This activity when completed will represent the first three steps of the the four-step competitive advantage analysis process described in the Competitive Advantage reading (See page 15). You will complete the final step of the analysis in the [next activity](/activities/internal-analysis/analyze-competitive-advantage/).
 
 **Learning Objectives:**
 
