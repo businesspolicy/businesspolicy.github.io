@@ -17,14 +17,13 @@ Building on your [initial analysis of the Ryanair's budget airline business](/ac
 
 By the end of this activity, you will be able to:
 
-*   Analyze the competitive forces influencing profitability in the generative AI industry.
-*   Evaluate the strategic positions of Nvidia and Google within this landscape.
-*   Anticipate potential industry changes and their impact on key players.
-*   Develop strategic recommendations for navigating the evolving generative AI landscape.
+*   Analyze the competitive advantage of a business.
+*   Relate value chain activities to customer willingness-to-pay and supplier opportunity costs.
+*   Identify and evalutate changes in value chain activities to enhance competitive advantage.
 
 **Steps:**
 
-1.  **Recall and Review:** Recall the insights from the "[What's Your Advantage?](/activities/internal-analysis/apply-competitive-advantage/)" activity, including your.
+1.  **Recall and Review:** Recall the insights from the "[What's Your Advantage?](/activities/internal-analysis/apply-competitive-advantage/)" activity, including your catlog of value chain activities and the how the activities are tied to customer willingness-to-pay and supplier opportunity costs.
 2.  **Brainstorm Changes:** 
     *   Identify relevant competitors (use information from the video, perform an internet search, or research using an AI assistant and verify the results).
     *   Identify the "essential driver" for Ryanair and its competitor (See page 25 from the Competitive Advantage reading).
