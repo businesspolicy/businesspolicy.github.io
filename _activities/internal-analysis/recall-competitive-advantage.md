@@ -22,7 +22,7 @@ Before this activity, please complete the following:
 
 By the end of this activity, you will be able to:
 
-*   Recall and define key industry analysis concepts.
+*   Recall and define key competitive advantage analysis concepts.
 *   Explain the relationships between different concepts.
 *   Apply the concepts to real-world business scenarios.
 *   Communicate your insights effectively to the class.
@@ -61,7 +61,7 @@ By the end of this activity, you will be able to:
 
 2.  **Group Discussion:** Discuss the following for each of the five selected concepts:
     *   Definition: Define the concept in your own words.
-    *   Connection to Competitive Advantage Analysis: Explain how this concept relates to the overall process of industry analysis.
+    *   Connection to Competitive Advantage Analysis: Explain how this concept relates to the overall process of internal analysis.
     *   Relationships: Identify any connections or relationships between this concept and other concepts in the set. Summarize why it matters.
     *   Real-world Example: Provide a real-world example of how this concept applies in a business setting.
 3.  **Visual Representation:** Create a visual representation (e.g., mind map, concept map) to illustrate the connections between the five concepts.
