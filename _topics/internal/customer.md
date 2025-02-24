@@ -17,8 +17,8 @@ parent: Internal Analysis
 By the end of this lesson, students will be able to:
 
 - Understand the importance of customer analysis in business strategy.
-- Define and differentiate between the four customer analysis tools: experience mapping, customer journey mapping, Jobs-to-be-Done, and persona.
-- Explain the relationship between the four tools and how they build upon each other.
+- Define and differentiate between the three customer analysis tools: experience mapping, customer journey mapping, and Jobs-to-be-Done
+- Explain the relationship between the three tools and how they build upon each other.
 - Determine which tool is most appropriate for different business scenarios.
 
 
@@ -26,12 +26,11 @@ By the end of this lesson, students will be able to:
 
 A company’s profits are an indicator of how valuable the company’s products are for its customers.  Companies that consistently improve their customers’ quality of life through thoughtful solutions tend to gain a sustainable competitive advantage via market failure modes such as loyalty, switching costs, and network effects.  The traditional analytical frameworks in the strategic management discipline don’t extensively focus on developing an understanding of the customer and rely on business functions such as marketing and product development to understand the customer. This lesson is aimed at highlighting some of these tools and introducing how to use them in the business strategy analysis context. 
 
-In this module, we'll explore four powerful tools for understanding your customers:
+In this module, we'll explore three powerful tools for understanding your customers:
 
 -   Experience mapping
 -   Customer journey mapping
 -   Jobs-to-be-Done
--   Persona
 
 These tools will help you identify opportunities to enhance your offerings, increase customer satisfaction, and ultimately, strengthen your competitive advantage.
 
@@ -122,5 +121,5 @@ As you can see, the JTBD framework focuses on the underlying needs and motivatio
 
 Understanding customers is a critical component of business strategy. By understanding the customer's needs, motivations, and pain points, businesses can develop products, services, and marketing campaigns that resonate with their target audience. The tools we've discussed - experience mapping, customer journey mapping, and Jobs-to-be-Done - offer a powerful framework for understanding customers and developing effective business strategies. 
 
-The tools are complementary. Experience mapping provides a broad overview of the customer's experience, while customer journey mapping zooms in on specific interactions and touchpoints. Jobs-to-be-Done delves deeper into the underlying needs and motivations that drive customer behavior, and persona creates a detailed picture of the ideal customer. Experience mapping is particulary salient when we want to understand a problem context from the customer perspective without the constraints imposed by products and services of the company. JTBD helps us truly appreciate what our products mean to our customers and what is the true competition from a customer's perspective. CJM provides an outside-in orientation to the analysis and can assist in not just understanding the customers but also in executing strategy.
+The tools are complementary. Experience mapping is particulary salient when we want to understand a problem context from the customer perspective without the constraints imposed by products and services of the company. Jobs-to-be-Done helps us truly appreciate what our products mean to our customers and what is the true competition from a customer's perspective. Customer Journey Mapping provides an outside-in orientation to the analysis and can assist in not just understanding the customers but also in executing strategy.
 
