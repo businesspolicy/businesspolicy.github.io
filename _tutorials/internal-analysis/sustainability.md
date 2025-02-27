@@ -5,10 +5,17 @@ layout: default
 nav_order: 3
 ---
 # Sustainability and Durability of Competitive Advantage
+{: .no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Having identified the sources of your company's competitive advantage through Activity Analysis, we now turn to evaluating how **sustainable** and **durable** this advantage is likely to be.  A truly valuable competitive advantage is one that a company can maintain over time, resisting erosion from competitive forces.
 
-**What Makes a Competitive Advantage Sustainable?**
+## What Makes a Competitive Advantage Sustainable?
 
 Competitive advantages are sustainable when they are protected by **barriers to imitation**. These barriers make it difficult or costly for competitors to replicate the activities or capabilities that underpin your company's advantage. Key barriers to imitation include:
 
@@ -21,7 +28,7 @@ Competitive advantages are sustainable when they are protected by **barriers to 
 
 **Industry Context and Sustainability:**  The *types* of barriers to imitation that are most effective vary significantly by industry. In some industries (e.g., pharmaceuticals), patents are paramount. In others (e.g., software platforms), network effects and switching costs are key. Consider your industry analysis – what are the typical sources of sustainable advantage in *this specific industry*?
 
-**Analyzing Sources of Sustainability for Your Company**
+## Analyzing Sources of Sustainability for Your Company
 
 For **each** of your chosen SBUs and the **industry-differentiating activities** you identified in Section V, analyze the **sources of sustainability** of your company's competitive advantage.  In your NotebookLM, create a dedicated subsection for "Sustainability & Durability Analysis" within each SBU's section. Then:
 
@@ -40,7 +47,7 @@ For **each** of your chosen SBUs and the **industry-differentiating activities**
 
 Document your analysis of barriers to imitation, identification of primary sustainability sources, and your assessment of the strength of sustainability for each SBU in your NotebookLM.
 
-**Assessing Durability: How Long is This Advantage Likely to Last?**
+## Assessing Durability: How Long is This Advantage Likely to Last?
 
 Sustainability focuses on *how difficult* it is to imitate an advantage. **Durability** considers *how long* an advantage is likely to remain valuable in the marketplace, even if perfectly imitated.  Durability is affected by:
 
@@ -48,7 +55,7 @@ Sustainability focuses on *how difficult* it is to imitate an advantage. **Durab
 *   **Competitive Response & Innovation:** Competitors will not stand still. Even if direct imitation is difficult, rivals will seek to innovate around your advantage, develop substitute products or services, or find new ways to meet customer needs. The dynamism and intensity of competition in your industry will impact the durability of your advantage.
 *   **Disruptive Technologies:**  Breakthrough technologies can fundamentally reshape industries and render existing competitive advantages obsolete.  Assess the potential for disruptive technologies to impact your chosen industry and your company's advantage (consider technology-related PESTLE factors).
 
-**Exercise: Evaluating the Sustainability and Durability of Your Company's Advantage**
+## Exercise: Evaluating the Sustainability and Durability of Your Company's Advantage
 
 To conclude your analysis of competitive advantage, complete the following exercise in your NotebookLM:
 
@@ -65,5 +72,4 @@ For **each** of your 2-3 chosen SBUs:
 
 Document your sustainability and durability analysis and your overall durability assessments for each SBU in your NotebookLM.
 
-With this, you have now completed a comprehensive analysis of your chosen company's competitive advantage, from understanding customer willingness to pay and supplier opportunity cost, to dissecting key activities and evaluating the sustainability and durability of the advantage.
 

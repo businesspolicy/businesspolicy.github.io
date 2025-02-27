@@ -1,4 +1,3 @@
-
 ---
 title: Research Tools
 parent: Internal Analysis of Your Company
@@ -7,10 +6,17 @@ nav_order: 5
 ---
 
 ## Research & Tools: Deep Dive
+{: .no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Throughout this Business Strategy Analysis Project, you have been directed to utilize **authoritative sources** and **NotebookLM** as your primary research and analysis tools. This section provides a more in-depth look at these resources and offers guidance on maximizing their effectiveness.
 
-**Re-emphasizing Authoritative Sources: Credibility and Depth**
+## Re-emphasizing Authoritative Sources: Credibility and Depth
 
 The quality of your analysis is directly dependent on the quality of your sources. For this project, it is essential to rely on **authoritative and credible sources** to ensure the accuracy and rigor of your findings.  Re-emphasizing the key source categories:
 
@@ -32,13 +38,13 @@ The quality of your analysis is directly dependent on the quality of your source
     *   **Context and Date:** Consider the context of the interview (e.g., industry event, product launch, earnings announcement) and the date of the interview to assess its relevance and potential biases.
     *   **Corroboration:**  Whenever possible, corroborate information from executive interviews with other authoritative sources, such as company reports and analyst reports.
 
-**Sources to Exercise Caution With (or Avoid):**
+## Sources to Exercise Caution With (or Avoid):
 
 *   **Wikipedia & General Encyclopedias:**  While potentially helpful for initial background information, these are not considered authoritative sources for in-depth strategic analysis.
 *   **Blogs & Unverified Online Forums:**  Exercise caution with information from blogs, online forums, and social media unless the source is clearly a recognized expert or authoritative industry commentator.
 *   **Outdated or Unreliable Sources:**  Prioritize recent and reliable sources. Be wary of outdated information or sources with a clear bias or lack of factual rigor.
 
-**Efficient Search Strategies Leveraging Industry Keywords and Terminology within NotebookLM and Source Databases**
+## Efficient Search Strategies Leveraging Industry Keywords and Terminology within NotebookLM and Source Databases
 
 Effective research relies on efficient search strategies.  To maximize your research productivity in NotebookLM and external source databases, consider these techniques:
 
@@ -56,7 +62,7 @@ Effective research relies on efficient search strategies.  To maximize your rese
 *   **Iterative Search:** Research is an iterative process.  Start with initial searches, review the results, identify new keywords and concepts, and refine your searches based on what you discover.  Use NotebookLM's summarization and note-taking features to capture key findings and guide your subsequent searches.
 *   **Leverage NotebookLM Chat for Targeted Questions:**  Utilize NotebookLM's chat feature to ask specific questions about your sources. For example: "Summarize the key risks discussed in the 10-K related to supply chain vulnerabilities" or "Identify any mentions of new product launches in the latest earnings call transcript."
 
-**Summarization Techniques in NotebookLM: Extracting Industry- and Customer-Relevant Insights**
+## Summarization Techniques in NotebookLM: Extracting Industry- and Customer-Relevant Insights
 
 NotebookLM's summarization features are powerful tools for efficiently processing large volumes of text.  To effectively use summarization for this project:
 
@@ -66,7 +72,7 @@ NotebookLM's summarization features are powerful tools for efficiently processin
 *   **Refine and Annotate Summaries:** NotebookLM-generated summaries are a starting point.  Review and refine the summaries to ensure accuracy and completeness. Annotate summaries with your own notes, interpretations, and connections to other sources and concepts.  Highlight key phrases and insights directly within the summaries.
 *   **Aggregate Summaries Thematically:**  Organize your summaries thematically within NotebookLM, grouping summaries related to SBUs, activities, WTP drivers, SOC drivers, sustainability, or innovation efforts. This thematic organization will facilitate synthesis and analysis.
 
-**Citation and Source Tracking: Maintaining Academic Integrity**
+## Citation and Source Tracking: Maintaining Academic Integrity
 
 Maintaining meticulous citation and source tracking is essential for academic integrity and for clearly communicating the basis of your analysis.
 

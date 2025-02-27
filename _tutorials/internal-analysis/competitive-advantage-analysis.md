@@ -5,11 +5,19 @@ layout: default
 nav_order: 2
 ---
 
+
 # Competitive Advantage Drivers - Deep Dive into Customer Willingness to Pay
+{: .no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Having identified the key Strategic Business Units (SBUs) for your chosen company, we now delve into the core of competitive advantage analysis: understanding the drivers of **Customer Willingness to Pay (WTP)** and **Supplier Opportunity Cost (SOC)**.
 
-### Recap: Competitive Advantage Framework (WTP - SOC Wedge) 
+## Recap: Competitive Advantage Framework (WTP - SOC Wedge) 
 {:.no_toc}
 
 Recall that competitive advantage, at its fundamental level, stems from creating a wider gap between customer willingness to pay (WTP) and supplier opportunity cost (SOC) relative to competitors.
@@ -19,8 +27,7 @@ Recall that competitive advantage, at its fundamental level, stems from creating
 
 Crucially, both WTP and SOC are significantly shaped by the **industry context** and **customer needs** within that industry.  Your industry analysis provides the essential backdrop for understanding these drivers.  Furthermore, to truly understand WTP, we need to move beyond broad assumptions and delve into the customer's perspective using specific analytical tools.
 
-### Understanding Customer WTP drivers using Customer Understanding Tools
-{: .no_toc }
+## Understanding Customer WTP drivers using Customer Understanding Tools
 
 In a prior lesson, you were introduced to three tools for understanding customers: Experience Mapping, Customer Journey Mapping, and Jobs-to-be-Done.  In this section, we will recap these tools and, more importantly, contextualize their application for analyzing Customer Willingness to Pay (WTP) in the context of your Business Strategy Analysis Project.
 
@@ -241,7 +248,7 @@ Throughout your Activity Analysis, continue to effectively utilize NotebookLM to
 *   **Summarization and Synthesis:**  Use NotebookLM's summarization features to extract key information from sources related to specific activities. Synthesize information from multiple sources to build a comprehensive picture of each activity's impact.
 *   **Chat Feature (Strategically):**  Utilize NotebookLM's chat feature to ask targeted questions about specific activities, WTP/SOC impacts, or competitive benchmarking.  Capture and organize the insights you gain from the chat.
 
-**Exercise: Mapping Key Activities and their Link to Competitive Advantage**
+## Exercise: Mapping Key Activities and their Link to Competitive Advantage
 
 To synthesize your Activity Analysis, complete the following exercise in your NotebookLM:
 

@@ -6,11 +6,17 @@ nav_order: 1
 ---
 
 # Identifying Strategic Business Units (SBUs)
+{: .no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 With a foundational understanding of your chosen company and its industry context established, the next step in our analysis is to identify its key Strategic Business Units, or SBUs.
 
-### Recap: What are SBUs and Why are They Important?
-{: .no_toc}
+## Recap: What are SBUs and Why are They Important?
 
 A Strategic Business Unit (SBU) is a relatively autonomous division or unit of a larger company that operates as an independent entity, often responsible for a specific product line, market segment, or geographic area.  Thinking in terms of SBUs is crucial for strategic analysis because:
 
@@ -21,8 +27,7 @@ A Strategic Business Unit (SBU) is a relatively autonomous division or unit of a
 
 In the context of this project, focusing on SBUs will enable a more precise and insightful analysis of competitive advantage. We will be examining the drivers of competitive advantage, value chain activities, and innovation efforts *at the SBU level*.
 
-### Leveraging Industry & Customer Segment Analysis for SBU Identification
-{: .no_toc}
+## Leveraging Industry & Customer Segment Analysis for SBU Identification
 
 Your prior industry analysis and initial exploration of customer segments provide valuable inputs for identifying relevant SBUs for your chosen company.  Consider the following:
 
@@ -31,8 +36,7 @@ Your prior industry analysis and initial exploration of customer segments provid
 *   **Strategic Groups and SBU Refinement:**  Your strategic group analysis can further refine your SBU identification. Companies within different strategic groups often pursue distinct competitive strategies and cater to different customer segments.  If your chosen company operates in a strategic group with a clear and differentiated strategy, this may represent a distinct SBU.  Conversely, a company might have SBUs that *span* strategic groups, but with differentiated value propositions for each.
 *   **Analyzing Company Reports - Segment Reporting:**  A crucial source for SBU identification is your company's own reports, particularly the 10-K report.  Companies that operate with a multi-SBU structure often provide segment reporting in their financial disclosures.  Look for sections in the 10-K that discuss "business segments," "operating segments," or "product categories."  This reporting often provides a company's *official* definition of its SBUs for financial and strategic management purposes. **Critically, connect this segment reporting back to the industry segments and customer groups you have previously analyzed.  Are the company's reported segments aligned with your understanding of the industry and its customer base?**
 
-### Focus on "Cash Cows" and "Stars"
-{: .no_toc}
+## Focus on "Cash Cows" and "Stars"
 
 The assignment description specifically mentions focusing on "cash cows" and "stars." These terms originate from the Boston Consulting Group (BCG) Matrix, a portfolio management tool. While we are not explicitly requiring a BCG Matrix analysis, understanding these archetypes is helpful for SBU prioritization:
 
@@ -41,7 +45,7 @@ The assignment description specifically mentions focusing on "cash cows" and "st
 
 While you should identify all key SBUs, ensure you explicitly include and prioritize the analysis of at least the "cash cows" and "stars" in your chosen company's portfolio, as these are often central to understanding current and future competitive advantage.
 
-**Exercise: Defining Key SBUs for Your Chosen Company**
+## Exercise: Defining Key SBUs for Your Chosen Company
 
 Now, apply these concepts to your chosen company.  In your NotebookLM workspace, create a dedicated section for "SBU Identification."  Then:
 
@@ -55,4 +59,3 @@ Now, apply these concepts to your chosen company.  In your NotebookLM workspace,
 
 Document your SBU identification process, your list of potential SBUs, and your final SBU selections with justifications in your NotebookLM. This will form the foundation for your subsequent competitive advantage analysis.
 
-Once you have clearly identified and documented your chosen SBUs, you are ready to proceed to the next section. 
