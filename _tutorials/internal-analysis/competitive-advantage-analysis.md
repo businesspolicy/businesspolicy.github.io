@@ -5,7 +5,7 @@ layout: default
 nav_order: 2
 ---
 
-## Competitive Advantage Drivers - Deep Dive into Customer Willingness to Pay
+# Competitive Advantage Drivers - Deep Dive into Customer Willingness to Pay
 
 Having identified the key Strategic Business Units (SBUs) for your chosen company, we now delve into the core of competitive advantage analysis: understanding the drivers of **Customer Willingness to Pay (WTP)** and **Supplier Opportunity Cost (SOC)**.
 

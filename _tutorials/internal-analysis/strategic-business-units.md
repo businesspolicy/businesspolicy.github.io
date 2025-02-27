@@ -4,7 +4,8 @@ parent: Internal Analysis of Your Company
 layout: default
 nav_order: 1
 ---
-## Identifying Strategic Business Units (SBUs)
+
+# Identifying Strategic Business Units (SBUs)
 
 With a foundational understanding of your chosen company and its industry context established, the next step in our analysis is to identify its key Strategic Business Units, or SBUs.
 
