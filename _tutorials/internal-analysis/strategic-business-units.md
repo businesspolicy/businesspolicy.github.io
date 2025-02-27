@@ -2,7 +2,7 @@
 title: Identifying Strategic Business Units
 parent: Internal Analysis of Your Company
 layout: default
-nav_order: 2
+nav_order: 1
 ---
 ## Identifying Strategic Business Units (SBUs)
 
