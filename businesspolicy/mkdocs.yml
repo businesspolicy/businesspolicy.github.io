@@ -2,3 +2,9 @@ site_name: Strategic Management
 site_url: https://businesspolicy.github.io
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: custom
+    accent: orange
+extra_css:
+  - stylesheets/extra.css
