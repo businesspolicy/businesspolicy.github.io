@@ -7,6 +7,8 @@ theme:
     code: Roboto Mono
   logo: assets/Shield_UnivPittsburgh_3color.png
   favicon: assets/favicon.ico
+  features:
+    - navigation.footer
   icon:
     # logo: fontawesome/solid/chess
     admonition:
@@ -44,5 +46,12 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: www.linkedin.com/in/midhubalan
+    - icon: fontawesome/brands/github
+      link: https://github.com/midhubalan
+copyright: Copyright &copy; 2025 Midhubalan Balasubramanian
 extra_css:
   - stylesheets/extra.css
