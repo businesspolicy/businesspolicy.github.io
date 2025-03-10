@@ -178,6 +178,28 @@ Sam's Club emphasizes agility and responsiveness in its product development, ena
 
 Sam's Club is also strategically expanding Member's Mark beyond traditional grocery items into lifestyle categories. The company's ambition is to evolve Member's Mark into a well-respected "lifestyle brand" that offers a wide range of high-quality products that resonate with members' broader needs and preferences.
 
+
+### Network Effects
+
+- Up scale vendors and high income members cross-side network benefit
+- 
+
+
+### Economies of Scale and Scope
+
+### Taste Based Loyalty
+
+- Hot dog
+- Rotisserie Chicken
+- Kirkland brand food, wine,
+- Experience pop-up taste stations
+
+### Switching Costs
+
+- Against substitutes such as super centers
+- 
+
+
 **Decision Prompt:**
 
 {: .warning-title}
