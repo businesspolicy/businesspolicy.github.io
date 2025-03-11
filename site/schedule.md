@@ -124,7 +124,7 @@ nav_order: 2
     <tr>
         <td>7</td>
         <td>
-          <p>03/20: Case Test 2</p>
+          <p>03/20: <a href="casetest/test-2.html">Case Test 2</a></p>
         </td>
         <td>
             <ul>
