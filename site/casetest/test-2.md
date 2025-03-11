@@ -140,7 +140,16 @@ In the fiercely competitive warehouse club industry, Costco and Sam's Club both 
 
 Both Costco and Sam's Club utilize a membership model, offering access to a wide array of goods and services at discounted prices. This model allows them to operate on a high-volume, low-margin strategy, providing significant savings to price-conscious consumers. Both clubs also focus on bulk purchasing, offering a wide product assortment, including private label brands, to cater to diverse customer needs. They are also expanding their omnichannel capabilities, integrating digital platforms with their physical stores to enhance convenience through online shopping, pickup, and delivery options. 
 
-Sam's Club aims to distinguish itself in the warehouse club business through several unique strategies aimed at enhancing convenience and reinforcing the perception of value within its physical store environments. While sharing the fundamental warehouse club model with competitors like Costco, Sam's Club has carved its own path through targeted technological innovations and a distinct approach to its private label offerings.
+Costco, the market leader, emjoys significant competitive advantages over Sam's Club. Sam's Club aims to distinguish itself in the warehouse club business through several unique strategies aimed at enhancing convenience and reinforcing the perception of value within its physical store environments. 
+
+**Costco's Advantage**
+
+"Costco, formerly PriceCostco, was formed by the merger of Price Club and Costco. Price Club's first store opened in San Diego in 1976, while Costco's began in Seattle in 1983. Operating in high-income areas along the West Coast and offering premium products became core to the company's identity. Although not a retail pioneer, Costco is a leader in the warehouse club model. Its strategic early location choices and investment in the Kirkland private label brand, despite initial skepticism towards private labels, have created a sustainable competitive advantage.
+
+Costco's customer base boasts the highest average annual income among warehouse club retailers (between $100,000 and $125,000). This has significant ripple effects. Premium brands and vendors seeking to build reputations for upscale products prefer to partner with Costco. Consequently, high-disposable-income customers favor Costco memberships for access to these premium offerings. This creates a positive feedback loop. Costco benefits from a greater number of vendors offering free food samples at their own expense. Similarly, consumer durable goods vendors often provide on-site sales staff, a testament to Costco's substantial per-warehouse investment ($300 million) compared to Sam's Club ($144 million). Adding to Sam's Club's challenges, its parent company Walmart's everyday-low-price image negatively impacts its brand perception, deterring both high-end vendors and affluent potential members.
+
+Costco strategically employs unique loss leaders, most notably the $1.50 hot dog and $4.99 rotisserie chicken. These offerings provide significant value to customers, enabling affordable family meals and versatile ingredients. The appeal extends to Costco's exclusive Kirkland brand, which offers a wide range of food products, from coffee beans to pizzas. This brand loyalty contributes to Costco's impressive 93% membership renewal rate. Over 300 of Costco's approximately 4,000 SKUs are Kirkland branded, many manufactured in the same facilities as national brands and enjoying positive reviews from customers and independent sources like Consumer Reports. In contrast, Sam's Club previously offered 20 store brands, only consolidating them under the Member's Mark brand in 2017 to mirror Costco's Kirkland strategy."
+
 
 **Technological Innovation: Driving Convenience and Efficiency**
 
@@ -177,28 +186,6 @@ Sam's Club is taking a unique approach to its private label brand, Member's Mark
 Sam's Club emphasizes agility and responsiveness in its product development, enabling it to quickly adapt to member feedback and introduce new items. The company is also focused on positioning Member's Mark as a high-quality brand offered at a "disruptive value," benchmarking itself against national brands and setting high standards for ingredients and sourcing. Sam's Club decision to primarily work with smaller, often unnamed suppliers specializing in private labels, bolsters its emphasis on market agility and member co-creation initiatives
 
 Sam's Club is also strategically expanding Member's Mark beyond traditional grocery items into lifestyle categories. The company's ambition is to evolve Member's Mark into a well-respected "lifestyle brand" that offers a wide range of high-quality products that resonate with members' broader needs and preferences.
-
-
-### Network Effects
-
-- Up scale vendors and high income members cross-side network benefit
-- 
-
-
-### Economies of Scale and Scope
-
-### Taste Based Loyalty
-
-- Hot dog
-- Rotisserie Chicken
-- Kirkland brand food, wine,
-- Experience pop-up taste stations
-
-### Switching Costs
-
-- Against substitutes such as super centers
-- 
-
 
 **Decision Prompt:**
 
