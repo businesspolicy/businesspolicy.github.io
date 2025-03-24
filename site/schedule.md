@@ -191,7 +191,7 @@ nav_order: 2
         </td>
         <td>
             <ul>
-                <li>Present your team's stretgic initiatives <span class="label label-purple">Group</span></li>
+                <li>Present your team's strategic initiatives <span class="label label-purple">Group</span></li>
                 <li>Submit exit tickets</li>
             </ul>
         </td>
