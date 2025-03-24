@@ -23,11 +23,11 @@ Before this activity, please complete the following:
 By the end of this activity, you will be able to:
 
 *   Recall and define key international business analysis concepts:
-    *   Global value creation
-    *   Scope Decision Analysis
-    *   Location Choice Analysis
-    *   Mode of Entry Analysis
-    *   Time of Entry Analysis
+    *   **Global value creation**
+    *   **Scope Decision Analysis**
+    *   **Location Choice Analysis**
+    *   **Mode of Entry Analysis**
+    *   **Time of Entry Analysis**
     
 *   Explain the relationships between different concepts.
 *   Apply the concepts to real-world business scenarios.
