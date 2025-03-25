@@ -4,15 +4,15 @@ layout: default
 parent: Activity Set 4
 nav_order: 2
 ---
-# Activity: What's Your Advantage?
+# Activity: Going Global
 
-<img src="/assets/images/competitive-advantage-analysis.jpeg" alt="Executive reading an analytical report" width="300"/>
+<img src="/assets/images/global-strategy.jpeg" alt="People working together on a global strategy" width="300"/>
 
 ### Required Preparation
 
 Before this activity, please complete the following:
 
-1. Read the assigned reading, "Competitive Advantage."
+1. Read the assigned reading, "Competing Globally."
 2. Complete the corresponding Canvas quiz.
 3. Watch the assigned video:
 
@@ -22,53 +22,56 @@ Before this activity, please complete the following:
 
 [![How Chinese EVs Are Taking Over Mexico](http://img.youtube.com/vi/mcMNXNhhBuE/0.jpg)](http://www.youtube.com/watch?v=mcMNXNhhBuE)
 
-### Analyzing Ryanair's Budget Airline Business
+### Analyzing Chinese Electric Vehicles Manufacturers' Approach to US Markets
 
 **Description:**
 
-This activity challenges you to apply competitive advantage analysis concepts to Ryanair's budget airline business. You'll work in teams to analyze and describe how these concepts manifest in this real-world example. 
+This activity challenges you to apply global strategy concepts to how Chinese electric vehicle(EV) manufacturers approach US and other global markets. You'll work in teams to analyze and describe how these concepts manifest in this real-world example. 
 
-{: .note}
-> This activity when completed will represent the first three steps of the the four-step competitive advantage analysis process described in the Competitive Advantage reading (See page 15). You will complete the final step of the analysis in the [next activity](/activities/internal-analysis/analyze-competitive-advantage/).
+### Learning Activity: Applying Global Strategy Concepts to Business Cases
 
-**Learning Objectives:**
+**Learning Objectives:** Upon completion of this activity, you will be able to:
 
-By the end of this activity, you will be able to:
+* Identify and explain different strategies for global value creation.
+* Analyze a company's scope decisions in a global context.
+* Evaluate the factors influencing a company's location choices for its global activities.
+* Determine and assess a company's mode of entry into international markets.
+* Discuss the potential impact of the timing of a company's international expansion.
+* Apply the concepts of global value creation, scope, location, mode, and time of entry to analyze real-world business situations presented in video format.
 
-* Identify the primary customers of a budget airline business and their willingness-to-pay (WTP) factors.
-* Describe the critical value chain activities of a budget airline business and their relationship to competitive advantage.
-* Apply competitive advantage analysis concepts to a real-world scenario.
-* Collaborate with your team to analyze and synthesize information.
-* Communicate your insights effectively to the class.
+**Instructions:**
 
-**Steps:**
+1.  **Watch the Videos:** Watch the following two videos carefully:
+    * [Video 1](http://www.youtube.com/watch?v=MOreJAyfUUU)
+    * [Video 2](http://www.youtube.com/watch?v=mcMNXNhhBuE)
 
-1. **Video Review:** Watch the assigned video on Ryanair's budget airline business.
-2. **Group Discussion:** Discuss the following with your team:
+2.  **Apply the Concepts:** For each video, analyze the business situation described using the following concepts from the "Competing Globally" reading. **Make sure to refer to specific elements or examples from the video in your analysis where relevant.**
 
-    * **Components of Competitive Advantage:** Based on the video and your understanding of the business, describe the following components of competitive advantage:
-        * Who is the customer, and what are their willingness-to-pay (WTP) factors?
-        * Who are the suppliers, and what are their opportunity costs (SOC)?
-        * What is the value added by Ryanair's presence in this market?
+    * **Global Value Creation:**
+        * Based on what you observe in the video, how does the company create value for its customers on a global scale? Does the video highlight any specific ways they deploy, develop, or deepen their value creation activities across borders?
+        * What aspects of the company's operations, as shown in the video, suggest a competitive advantage in the global market?
+        * Does the video provide any examples of how the company leverages its resources and capabilities across different countries?
 
-    * **Value Chain Analysis:**
-        * What are the critical primary and support value chain activities?
-        * How are these activities related to WTP and SOC?
-        * Evaluate the idea of internal consistency using the set of activities you have identified.
-        * Categorize the activities based on whether they are geared towards value creation or value capture.
+    * **Scope Decision Analysis:**
+        * What is the geographic scope of the company's operations as depicted in the video? Which countries or regions are mentioned or shown? What might be the reasons behind this scope based on the video's content?
+        * What products or services does the company offer globally, according to the video? Does the video suggest any adaptation of these offerings to local markets?
+        * Does the video provide any insights into the company's decisions about which activities they perform themselves and which they outsource or partner on in a global context?
 
-    * **Concept Application:** How do the following competitive advantage concepts manifest in the video?
-        * Tension between customers' willingness-to-pay and suppliers' opportunity costs
-        * Cost leadership vs. differentiation strategy
-        * Horizontal vs. vertical differentiation
-        * Value chain activities
-        * Value added
-        * Value capture
-        * Internal consistency
-        * Mass customization
-        * Dual advantage
+    * **Location Choice Analysis:**
+        * Where does the video show the company locating its key activities (e.g., production facilities, offices, research centers)? Are there any clues in the video about the factors that influenced these location choices (e.g., location characteristics, firm fit, competitive effect, or incentives)?
+        * Based on the video, does the company seem to concentrate its activities in a few key locations or disperse them more widely? What might be the rationale behind this approach as suggested by the video?
 
-3. **Class Discussion:** Engage in a class discussion to share your team's findings and insights.
+    * **Mode of Entry Analysis:**
+        * How did the company appear to enter the international market(s) based on the information presented in the video? Can you infer their mode of entry (e.g., exporting, foreign direct investment, partnerships) from what is shown?
+        * Based on the video, what seem to be the advantages or disadvantages of their chosen mode of entry in their specific industry and context?
+        * Does the video hint at any changes in their mode of entry over time?
+
+    * **Time of Entry Analysis:**
+        * Does the video provide any information or clues about when the company entered the international market(s)? Were they an early or late mover in their industry?
+        * Based on the video's narrative, what might have been the advantages or disadvantages of their timing of entry? Consider the market conditions and competitive landscape suggested by the video.
+
+3.  **Discussion:** After analyzing both videos, be prepared to discuss your findings with your classmates. Compare and contrast the global strategies of the companies in the two videos, making specific references to what you observed in the videos to support your points.
+
 
 **Remember:** This is an in-class learning activity designed to facilitate discussion and deepen your understanding. The primary deliverable is a rich and interactive discussion within your group and with the class.
 
