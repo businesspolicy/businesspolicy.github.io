@@ -4,7 +4,7 @@ layout: default
 parent: Activity Set 4
 nav_order: 4
 ---
-# Activity: Going Global
+# Activity: Basket of Businesses
 
 <img src="/assets/images/corporate-strategy.jpeg" alt="People working together on a corporate strategy" width="300"/>
 
