@@ -2,7 +2,7 @@
 title: Corporate Strategy - Application
 layout: default
 parent: Activity Set 4
-nav_order: 3
+nav_order: 4
 ---
 # Activity: Going Global
 
@@ -30,49 +30,45 @@ Before this activity, please complete the following:
 
 This activity challenges you to apply global strategy concepts to how Chinese electric vehicle(EV) manufacturers approach US and other global markets. You'll work in teams to analyze and describe how these concepts manifest in this real-world example. 
 
-### Learning Activity: Applying Corporate Strategy Concepts to Ford's Portfolio Decisions
+### Learning Activity: Applying Corporate Strategy Concepts to Ford Motor Company
 
 **Learning Objectives:** Upon completion of this activity, you will be able to:
 
-* Identify and explain different strategies for global value creation.
-* Analyze a company's scope decisions in a global context.
-* Evaluate the factors influencing a company's location choices for its global activities.
-* Determine and assess a company's mode of entry into international markets.
-* Discuss the potential impact of the timing of a company's international expansion.
-* Apply the concepts of global value creation, scope, location, mode, and time of entry to analyze real-world business situations presented in video format.
+* Analyze a company's portfolio decisions, including which businesses to own, control, and exit, and how they achieve synergy.
+* Evaluate a company's scope decisions, such as backward integration, forward integration, and horizontal diversification.
+* Identify and assess a company's mode of entry decisions, including alliances, joint ventures, and long-term market relationships.
+* Discuss a company's governance decisions, such as centralization vs. decentralization, autonomy vs. coordination, and the role of organizational culture.
+* Apply the concepts of portfolio decisions, scope decisions, mode of entry decisions, and governance decisions to analyze the corporate strategy of Ford Motor Company as presented in the videos.
 
 **Instructions:**
 
 1.  **Watch the Videos:** Watch the following two videos carefully:
-    * [Video 1](http://www.youtube.com/watch?v=MOreJAyfUUU)
-    * [Video 2](http://www.youtube.com/watch?v=mcMNXNhhBuE)
+    * [Video 1](http://www.youtube.com/watch?v=NIvbrZ2BWTg)
+    * [Video 2](http://www.youtube.com/watch?v=Q7-ow9-HGcg)
 
-2.  **Apply the Concepts:** For each video, analyze the business situation described using the following concepts from the "Competing Globally" reading. **Make sure to refer to specific elements or examples from the video in your analysis where relevant.**
+2.  **Apply the Concepts:** For each video, analyze the corporate strategy decisions made by Ford Motor Company using the following concepts from the "Corporate Strategy" reading. **Make sure to refer to specific elements or examples from the video in your analysis where relevant.**
 
-    * **Global Value Creation:**
-        * Based on what you observe in the video, how does the company create value for its customers on a global scale? Does the video highlight any specific ways they deploy, develop, or deepen their value creation activities across borders?
-        * What aspects of the company's operations, as shown in the video, suggest a competitive advantage in the global market?
-        * Does the video provide any examples of how the company leverages its resources and capabilities across different countries?
+    * **Value Creation via Portfolio Decisions:**
+        * Based on the video, what different businesses or segments does Ford operate in or has it exited? What might be the rationale behind these portfolio decisions?
+        * Does the video provide examples of how Ford attempts to connect its different businesses to achieve synergy?
+        * How does Ford seem to exercise control over its various business units or investments, as suggested by the video?
 
     * **Scope Decision Analysis:**
-        * What is the geographic scope of the company's operations as depicted in the video? Which countries or regions are mentioned or shown? What might be the reasons behind this scope based on the video's content?
-        * What products or services does the company offer globally, according to the video? Does the video suggest any adaptation of these offerings to local markets?
-        * Does the video provide any insights into the company's decisions about which activities they perform themselves and which they outsource or partner on in a global context?
+        * Does the video illustrate any instances of backward integration by Ford (e.g., acquiring suppliers)?
+        * Does the video show examples of forward integration by Ford (e.g., expanding into distribution or retail)?
+        * Based on the video, has Ford engaged in horizontal diversification (entering new product categories or industries)?
 
-    * **Location Choice Analysis:**
-        * Where does the video show the company locating its key activities (e.g., production facilities, offices, research centers)? Are there any clues in the video about the factors that influenced these location choices (e.g., location characteristics, firm fit, competitive effect, or incentives)?
-        * Based on the video, does the company seem to concentrate its activities in a few key locations or disperse them more widely? What might be the rationale behind this approach as suggested by the video?
+    * **Mode of Entry Decisions:**
+        * Does the video mention or show Ford using alliances or joint ventures for specific initiatives or markets?
+        * Are there any indications of Ford making corporate venture capital or non-controlling equity investments in other companies, as depicted in the video?
+        * Does the video highlight any long-term market relationships that are crucial to Ford's corporate strategy?
 
-    * **Mode of Entry Analysis:**
-        * How did the company appear to enter the international market(s) based on the information presented in the video? Can you infer their mode of entry (e.g., exporting, foreign direct investment, partnerships) from what is shown?
-        * Based on the video, what seem to be the advantages or disadvantages of their chosen mode of entry in their specific industry and context?
-        * Does the video hint at any changes in their mode of entry over time?
+    * **Governance Decisions:**
+        * Based on the video, does Ford's decision-making appear to be more centralized or decentralized across its various units or regions?
+        * How does Ford seem to balance the autonomy of its different business units with the need for coordination, as suggested by the video?
+        * Does the video provide any insights into Ford's organizational culture and how it might influence its corporate strategy?
 
-    * **Time of Entry Analysis:**
-        * Does the video provide any information or clues about when the company entered the international market(s)? Were they an early or late mover in their industry?
-        * Based on the video's narrative, what might have been the advantages or disadvantages of their timing of entry? Consider the market conditions and competitive landscape suggested by the video.
-
-3.  **Discussion:** After analyzing both videos, be prepared to discuss your findings with your classmates. Compare and contrast the global strategies of the companies in the two videos, making specific references to what you observed in the videos to support your points.
+3.  **Discussion:** After analyzing both videos, be prepared to discuss your findings with your classmates. Compare and contrast the different corporate strategy decisions made by Ford as presented in the two videos. What key themes or approaches do you observe?
 
 
 **Remember:** This is an in-class learning activity designed to facilitate discussion and deepen your understanding. The primary deliverable is a rich and interactive discussion within your group and with the class.
