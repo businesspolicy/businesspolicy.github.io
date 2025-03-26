@@ -4,9 +4,9 @@ layout: default
 parent: Global and Corporate Strategy Analysis
 nav_order: 2
 ---
-## Corporate Strategy Session: Understanding Portfolio and Governance
+## Corporate Strategy
 
-Welcome to the session on Corporate Strategy! In this session, we will explore the key concepts from the assigned reading, “Corporate Strategy,” to understand how organizations make decisions about their businesses and how they are managed at the corporate level. This content page provides a structured overview of the core ideas we will explore.
+In this session, we will explore the key concepts from the assigned reading, “Corporate Strategy,” to understand how organizations make decisions about their businesses and how they are managed at the corporate level. This content page provides a structured overview of the core ideas we will explore.
 
 ### Core Concepts from "Corporate Strategy"
 
@@ -29,6 +29,7 @@ We will follow a linear sequence of higher-level ideas from the reading to build
 4.  **Governance Decisions:** Analyzing how business decisions are made within the corporate portfolio. We will discuss key aspects of governance:
     * Centralization vs. Decentralization: The degree to which decision-making authority is concentrated at the corporate headquarters versus distributed among business units.
     * Coordination vs. Autonomy: The balance between close collaboration and interdependence among business units versus the independence and freedom of business units to make their own decisions.
+    * Role of Organizational Culture and Industry Contexts: The potential of unwritten rules and norms idiosyncratic to the organization and the industries make corporate strategy succeed or fail.
 
 
 ## Recall Activity:  Corporate Strategy

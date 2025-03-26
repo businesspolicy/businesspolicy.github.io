@@ -4,9 +4,9 @@ layout: default
 parent: Global and Corporate Strategy Analysis
 nav_order: 1
 ---
-## Global Strategy Session: Competing Globally
+## Global Strategy
 
-Welcome to the session on Global Strategy! In this session, we will delve into the key concepts from the assigned reading, “Competing Globally,” to understand how firms can create and capture value in the international marketplace. This content page provides a structured overview of the core ideas we will explore.
+In this session, we will discuss key concepts from the assigned reading, “Competing Globally,” to understand how firms can create and capture value in the international marketplace. This content page provides a structured overview of the core ideas we will explore.
 
 ### Core Concepts from "Competing Globally"
 

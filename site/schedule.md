@@ -136,9 +136,9 @@ nav_order: 2
     <tr>
         <td>8</td>
         <td>
-          <p>03/25: Corporate Strategy</p>
-          <p>03/27: Corporate Strategy</p>
-          <p>04/01: Corporate Strategy</p>
+        <p>03/25: <a href= "/topics/portfolio/global">Global Strategy</a></p>
+        <p>03/27: <a href= "/topics/portfolio/corporate">Corporate Strategy</a></p>
+        <p>04/01: <a href= "/topics/portfolio/portfolio">Portfolio Strategy: Geography + Business</a></p>
           <p>04/03: Corporate Strategy</p>
         </td>
         <td>
