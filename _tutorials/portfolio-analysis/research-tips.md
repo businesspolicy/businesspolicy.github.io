@@ -24,13 +24,10 @@ NotebookLM is a powerful tool designed to help you manage and synthesize large a
 
 * **Create a Dedicated Notebook:** Begin by creating a new notebook in NotebookLM specifically for your Corporate Strategy Analysis Project. This will help you keep your research organized and separate from other course-related work.
 * **Add Authoritative Sources:** Populate your notebook with relevant source materials. You can upload PDF documents of company reports, paste text from online articles, or link to web pages containing valuable information. Focus on the data sources listed below.
-* **Query Your Data Sources with Intent:** As you review your sources within NotebookLM, use the highlighting tool to mark important passages, data points, and strategic decisions related to the project's requirements. Add annotations to these highlights to record your initial thoughts, interpretations, and connections to course concepts.
+* **Query Your Data Sources with Intent:** Translate the concepts from the module lessons and the analytical objectives listed in the rubric into a logically ordered set of questions. Use the chat feature to work through this sequence of questions. Review each response immediately instead of saving it for later. Revise your question if the response is not useful. Save helpful responses as notes for future reference. Review your notes and create further queries as needed to deepen your understanding. 
 * **Summarize Information Efficiently:** Take advantage of NotebookLM's summarization features to quickly grasp the main points of lengthy documents. Remember to review and refine these AI-generated summaries to ensure accuracy and relevance to your specific analysis.
-* **Link Related Insights:** As you progress through your research, you'll likely find connections between information in different sources. Use NotebookLM's linking capabilities to connect these related pieces of evidence. This will help you build a cohesive understanding of your company's strategic decisions and their impact.
-* **Collaborate Effectively (if applicable):** If you are working on this project as a group, NotebookLM can facilitate collaboration. Ensure all group members understand how to add sources, highlight, annotate, and link information within your shared notebook.
-* **Share Your Research:** As part of your submission, you will need to share a read-only link to your NotebookLM notebook with your instructor. Ensure you understand how to generate and share this link.
-
-
+* **Link Related Insights:** As you progress through your research, you'll likely find connections between information in different notes you have collected. Organize your notes into groups of related ideas. You can edit the auto-generated names to add a prefix or suffix that reflects a logical grouping. These groups will help you connect related pieces of evidence, building a cohesive understanding of your company's strategic decisions and their impact. This organization of notes and insights often provides a good roadmap for structuring your essay and presentation.
+* **Collaborate Effectively (if applicable):** If you are doing research as a group, NotebookLM can facilitate collaboration. Ensure all group members understand how to add sources, highlight, annotate, and link information within your shared notebook.
 
 ### Tips for Effective Research
 
