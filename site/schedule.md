@@ -138,7 +138,7 @@ nav_order: 2
         <td>
         <p>03/25: <a href= "/topics/portfolio/global">Global Strategy</a></p>
         <p>03/27: <a href= "/topics/portfolio/corporate">Corporate Strategy</a></p>
-        <p>04/01: <a href= "/topics/portfolio/portfolio">Portfolio Strategy: Geography + Business</a></p>
+        <p>04/01: <a href= "/tutorials/portfolio-analysis/index">Portfolio Strategy Analysis of Your Company</a></p>
           <p>04/03: Corporate Strategy</p>
         </td>
         <td>
