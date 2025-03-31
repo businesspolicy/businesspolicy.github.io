@@ -159,7 +159,7 @@ nav_order: 2
     <tr>
       <td>9</td>
       <td>
-        <p>04/08: Case Test 3</p>
+        <p>04/08: <a href="casetest/test-3.html">Case Test 3</a></p>
       </td>
       <td>
           <ul>
