@@ -97,13 +97,13 @@ In examining Ford's global presence and its recent strategic moves, a clear them
 > 
 > This online material provides the background case information for your upcoming test. Please note that the specific managerial decision scenario and the detailed decision prompt **are not included here**. These will be provided to you separately as part of an in-person test.
 > 
-> To prepare effectively for the the test, it is **highly recommended** that you practice applying internal analysis concepts to the case content presented here. 
+> To prepare effectively for the the test, it is **highly recommended** that you practice applying coporate and global strategy analysis concepts to the case content presented here. 
 > 
 > For the test, you are **permitted to bring two pages of printed or digital notes**.  To make the most of this resource, consider these tips for preparing your notes:
 > 
->*   **Focus on Framework Application:** Structure your notes around the customer understanding, competitive advantage, and sustainability of competitive advantage concepts. For each framework, outline the key steps, concepts, and potential questions to consider when applying it to a business case.
-> *   **Summarize Key Case Facts:**  Condense the most critical information from the case study – key WTP factors, value chain activities, and sustainability of advantages. Use concise bullet points or short phrases.
-> *   **Create Framework-Specific Checklists:** Develop brief checklists for each framework to ensure you systematically address all relevant aspects during the test. For example, for each competitive advantage you identify, evaluate its sustaibility using the seven market failure modes listed in the assigned reading.
+>*   **Focus on Framework Application:** Structure your notes around the frameworks and tools described in the assigned readings for the module. For each framework, outline the key steps, concepts, and potential questions to consider when applying it to a business case.
+> *   **Summarize Key Case Facts:**  Condense the most critical information from the case study. Use concise bullet points or short phrases.
+> *   **Create Framework-Specific Checklists:** Develop brief checklists for global and corporate strategy analysis to ensure you systematically address all relevant aspects during the test.  
 > *   **Include Key Vocabulary & Concepts:** Define any essential industry-specific terms or strategic management concepts that you want to have readily available.
 > *   **Prioritize Clarity and Conciseness:**  Use a font size that is readable but allows you to fit a substantial amount of information on two pages. Organize your notes logically with headings, subheadings, and bullet points for quick reference.
 > 
