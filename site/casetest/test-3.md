@@ -90,9 +90,26 @@ For a company that began in the heartland of America, Ford Motor Company has cul
 In examining Ford's global presence and its recent strategic moves, a clear theme emerges: a drive to compete based on its core strengths. The company appears to be strategically aligning its global operations around its established prowess in truck and SUV platforms, exemplified by the enduring success of the F-Series and Ranger in North America, and leveraging the power of its iconic brands like Mustang and Bronco. This is further evident in the increasing revenue contribution from the North American market, where these vehicle segments dominate. Simultaneously, Ford has been rationalizing its footprint in other regions, such as Europe, where it is focusing on its leadership in commercial vehicles, and South America, where the strategy centers on the strength of the Ranger and Transit. Strategic partnerships, particularly overseas with companies like Volkswagen and Ford Otosan, also appear to be aimed at leveraging scale and leadership in areas where Ford has a strong market position. This overarching strategy suggests a deliberate effort to fortify Ford's position by concentrating on its inherent capabilities and well-recognized product lines in the global automotive arena.
 
 
-**VII. Conclusion: Ford's Strategic Trajectory in a Global Industry**
+**Decision Prompt:**
 
-* Provide a concluding summary of Ford's strategic decisions and its position in the global automotive landscape based on the facts presented.
-* Highlight the key themes that emerge from Ford's actions and reported performance in the context of the global market.
+{: .warning-title}
+> **Important Notice: In-Person Case Test Component**
+> 
+> This online material provides the background case information for your upcoming test. Please note that the specific managerial decision scenario and the detailed decision prompt **are not included here**. These will be provided to you separately as part of an in-person test.
+> 
+> To prepare effectively for the the test, it is **highly recommended** that you practice applying internal analysis concepts to the case content presented here. 
+> 
+> For the test, you are **permitted to bring two pages of printed or digital notes**.  To make the most of this resource, consider these tips for preparing your notes:
+> 
+>*   **Focus on Framework Application:** Structure your notes around the customer understanding, competitive advantage, and sustainability of competitive advantage concepts. For each framework, outline the key steps, concepts, and potential questions to consider when applying it to a business case.
+> *   **Summarize Key Case Facts:**  Condense the most critical information from the case study – key WTP factors, value chain activities, and sustainability of advantages. Use concise bullet points or short phrases.
+> *   **Create Framework-Specific Checklists:** Develop brief checklists for each framework to ensure you systematically address all relevant aspects during the test. For example, for each competitive advantage you identify, evaluate its sustaibility using the seven market failure modes listed in the assigned reading.
+> *   **Include Key Vocabulary & Concepts:** Define any essential industry-specific terms or strategic management concepts that you want to have readily available.
+> *   **Prioritize Clarity and Conciseness:**  Use a font size that is readable but allows you to fit a substantial amount of information on two pages. Organize your notes logically with headings, subheadings, and bullet points for quick reference.
+> 
+> By practicing with the case content and preparing well-structured notes, you will be well-equipped to tackle the managerial decision scenario presented in the in-person test. Good luck!
 
-This outline focuses on presenting factual information and strategic events in a way that mirrors business news reporting, allowing your students to analyze Ford's strategies without explicitly using academic terms within the case study itself. They can then apply the concepts from their readings during the analysis phase of the case test.
+
+**Conclusion: Ford's Enduring Journey in a Transforming Industry**
+
+As Ford Motor Company navigates the complexities of the 21st-century automotive landscape, the company stands at a pivotal moment in its storied history. Faced with disruptive technological shifts, intensifying global competition, and evolving consumer demands, Ford has demonstrated a commitment to adapting and transforming its business. The strategic moves undertaken in recent years – a focus on core strengths, a preference for strategic partnerships, a rationalization of its global footprint and product portfolio, a nuanced approach to innovation, and a carefully managed transition to electrification – underscore a determined effort to not only survive but thrive. While significant challenges remain, particularly in the rapidly evolving electric vehicle market and the face of new competitive pressures, Ford's enduring legacy, its iconic brands, and its proactive strategic responses position it to continue its journey on the road ahead.
